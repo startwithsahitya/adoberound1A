@@ -1,0 +1,32 @@
+[
+  {
+    "index": 3,
+    "text": "To provide PTHSD high school students with the opportunity to concentrate their studies, beyond those required in high school, in the areas of science, technology, engineering, and mathematics, and expose students to relevant real world experiences through project work, conferences and presentations to enhance their high school experience.",
+    "style": {
+      "font": "Calibri",
+      "size": 13,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 10,
+    "text": "REGULAR PATHWAYDISTINCTION PATHWAY",
+    "style": {
+      "font": "Calibri-Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  }
+]

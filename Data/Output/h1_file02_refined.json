@@ -1,0 +1,122 @@
+[
+  {
+    "index": 7,
+    "text": "Revision History",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 11,
+    "text": "Table of Contents",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 19,
+    "text": "Acknowledgements",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "has size equal or greater than H1 group max size (and matches H1 x-position)"
+  },
+  {
+    "index": 22,
+    "text": "1.Introduction to the Foundation Level Extensions",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "has size equal or greater than H1 group max size (and matches H1 x-position)"
+  },
+  {
+    "index": 26,
+    "text": "2.Introduction to Foundation Level Agile Tester Extension",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "has size equal or greater than H1 group max size (and matches H1 x-position)"
+  },
+  {
+    "index": 46,
+    "text": "3.Overview of the Foundation Level Extension \u2013Agile Tester",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "has size equal or greater than H1 group max size (and matches H1 x-position)"
+  },
+  {
+    "index": 47,
+    "text": "Syllabus",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 89,
+    "text": "4.References",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "has size equal or greater than H1 group max size (and matches H1 x-position)"
+  }
+]

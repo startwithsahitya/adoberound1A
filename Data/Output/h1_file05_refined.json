@@ -1,0 +1,17 @@
+[
+  {
+    "index": 5,
+    "text": "HOPEToSEEYouTHERE!",
+    "style": {
+      "font": "Helvetica-Bold",
+      "size": 23,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "rarest font and max size"
+  }
+]
