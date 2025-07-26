@@ -170,7 +170,7 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
         return []
 
     if save:
-        output_path = output_path or h1_json_path.replace(".json", "_refined.json")
+        output_path = output_path or h1_json_path  # 👈 Overwrite original file
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(merged_headers, f, indent=2)
         print(f"✅ Refined H1 headers saved to {output_path}")
@@ -186,7 +186,7 @@ if __name__ == "__main__":
     )
     parser.add_argument('main_json', help="Main <filename>.json file path")
     parser.add_argument('h1_json', help="h1_<filename>.json file path")
-    parser.add_argument('--out', help="Output path")
+    parser.add_argument('--out', help="Output path (default: overwrite original file)")
     args = parser.parse_args()
 
     refine_h1_headers_regionally(args.main_json, args.h1_json, output_path=args.out)
