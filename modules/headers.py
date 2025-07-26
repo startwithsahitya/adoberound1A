@@ -125,6 +125,10 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
                 len(fonts_seq) == 1 or
                 (idx in merged_seq_entries and fonts_seq == title_fonts_seq and len(fonts_seq) == len(set(fonts_seq)))
             ):
+            if (
+                len(fonts_seq) == 1 or
+                (idx in merged_seq_entries and fonts_seq == title_fonts_seq and len(fonts_seq) == len(set(fonts_seq)))
+            ):
                 final_h1_entries.append((entry, h1_reason.get(idx, "matches title font sequence exactly")))
                 seen.add(idx)
         final_h1_entries = sorted(final_h1_entries, key=lambda e: e[0]["index"])
