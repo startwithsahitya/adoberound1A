@@ -1,0 +1,4085 @@
+[
+  {
+    "text": "RFP: Request for Proposal To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 33,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      },
+      {
+        "font": "ArialMT",
+        "size": 24,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 157,
+      "width": 392,
+      "height": 174
+    },
+    "bbox": [
+      91,
+      157,
+      483,
+      331
+    ],
+    "page_number": 1,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 3,
+    "merged_simultaneous": true,
+    "original_entries_count": 2,
+    "is_title": true
+  },
+  {
+    "text": "Ontario\u2019s Libraries Working Together",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 73,
+      "width": 143,
+      "height": 45
+    },
+    "bbox": [
+      96,
+      73,
+      239,
+      118
+    ],
+    "page_number": 1,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 1
+  },
+  {
+    "text": "RFP: Request for Proposal",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 33,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 157,
+      "width": 103,
+      "height": 45
+    },
+    "bbox": [
+      91,
+      157,
+      194,
+      202
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 2
+  },
+  {
+    "text": "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 24,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 132,
+      "y": 249,
+      "width": 351,
+      "height": 82
+    },
+    "bbox": [
+      132,
+      249,
+      483,
+      331
+    ],
+    "page_number": 1,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 3
+  },
+  {
+    "text": "March 21, 2003",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 21,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 239,
+      "y": 343,
+      "width": 141,
+      "height": 22
+    },
+    "bbox": [
+      239,
+      343,
+      380,
+      365
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 4
+  },
+  {
+    "text": "The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that all Ontario citizens have access to the knowledge and learning supports needed to be life-long learners and effective contributors towards Ontario\u2019s prosperity.",
+    "styles_used": [
+      {
+        "font": "ComicSansMS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 92,
+      "y": 695,
+      "width": 450,
+      "height": 41
+    },
+    "bbox": [
+      92,
+      695,
+      542,
+      736
+    ],
+    "page_number": 1,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 5
+  },
+  {
+    "text": "Ontario\u2019s Digital Library",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 21,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 89,
+      "width": 230,
+      "height": 28
+    },
+    "bbox": [
+      91,
+      89,
+      321,
+      117
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 6
+  },
+  {
+    "text": "A Critical Component for Implementing Ontario\u2019s Road Map to Prosperity Strategy",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 121,
+      "width": 394,
+      "height": 36
+    },
+    "bbox": [
+      91,
+      121,
+      485,
+      157
+    ],
+    "page_number": 2,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 7
+  },
+  {
+    "text": "Summary",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 196,
+      "width": 62,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      196,
+      159,
+      213
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 8
+  },
+  {
+    "text": "The purpose of thisRequest for Proposal(RFP) is to invite firms and/or consultants to present a proposal for developing the business plan for theOntario Digital Library (ODL). The ODL will deliver high-quality library electronic content to all Ontario residents in order to assist people as they learn, work, and enhance their quality of life. The business plan to be developed is to document and clearly communicate: how the ODL will be implemented, including the timeline the financial plan for the implementation the financial plan for the first 2 operating years, including capital and operating costs, revenues, etc. a financial forecast for the succeeding 2 operating years the services and products to be delivered by the ODL how the ODL will operate and be managed following the implementation who will be involved, and what their role/responsibility will be, for both the implementation and operational stages the marketing and communications plan for the ODL This business plan must be completed and approved by the ODL Steering Committee no later than September 30, 2003",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 229,
+      "width": 429,
+      "height": 239
+    },
+    "bbox": [
+      97,
+      229,
+      526,
+      468
+    ],
+    "page_number": 2,
+    "lines": 17,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 17,
+      "original_styles_count": 17
+    },
+    "consolidation_info": {
+      "original_lines_count": 17,
+      "original_spans_count": 17,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 9
+  },
+  {
+    "text": "Timeline:",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 481,
+      "width": 45,
+      "height": 12
+    },
+    "bbox": [
+      97,
+      481,
+      142,
+      493
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 10
+  },
+  {
+    "text": "Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) byApril 11.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 505,
+      "width": 429,
+      "height": 25
+    },
+    "bbox": [
+      97,
+      505,
+      526,
+      530
+    ],
+    "page_number": 2,
+    "index": 11
+  },
+  {
+    "text": "th",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 7,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": true,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 482,
+      "y": 517,
+      "width": 6,
+      "height": 8
+    },
+    "bbox": [
+      482,
+      517,
+      488,
+      525
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 12
+  },
+  {
+    "text": "Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore (lmoore@accessola.com), Executive Director, The Ontario Library Association,100 Lombard",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 543,
+      "width": 330,
+      "height": 25
+    },
+    "bbox": [
+      97,
+      543,
+      427,
+      568
+    ],
+    "page_number": 2,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 13
+  },
+  {
+    "text": "St., Suite 303, Toronto, ON  M5C 1M3.Proposals must be received byNoon on Monday,",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 569,
+      "width": 170,
+      "height": 11
+    },
+    "bbox": [
+      97,
+      569,
+      267,
+      580
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 14
+  },
+  {
+    "text": "April 21, 2003.",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 581,
+      "width": 73,
+      "height": 12
+    },
+    "bbox": [
+      97,
+      581,
+      170,
+      593
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 15
+  },
+  {
+    "text": "Those proposals that are short-listed will be invited to discuss their proposal during the week ofApril 28, 2003. No presentation will be expected. Firms or consultants invited to an interview will be expected to discuss the project and their approach with the selection committee. Contracts with the firm/consultant will be signed the week ofMay 5, 2003with the work to commence as soon as possible thereafter.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 605,
+      "width": 429,
+      "height": 88
+    },
+    "bbox": [
+      97,
+      605,
+      526,
+      693
+    ],
+    "page_number": 2,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 16
+  },
+  {
+    "text": "Please note that we reserve the right not to select any of the submitted proposals and may seek further response to these Terms of Reference. If you require further information or have any questions, please contact Michael Ridley by e- mail (mridley@uoguelph.ca)onlyby3:00 p.m. on Friday April 18th. All questions and responses will be shared with those who have indicated that they will be submitting a proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael Ridley by April 11that they will be submitting a proposal will not receive any further information or question responses.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 73,
+      "width": 429,
+      "height": 113
+    },
+    "bbox": [
+      97,
+      73,
+      526,
+      186
+    ],
+    "page_number": 3,
+    "lines": 8,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 8,
+      "original_styles_count": 8
+    },
+    "consolidation_info": {
+      "original_lines_count": 8,
+      "original_spans_count": 8,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 17
+  },
+  {
+    "text": "Background",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 207,
+      "width": 78,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      207,
+      175,
+      224
+    ],
+    "page_number": 3,
+    "lines": 1,
+    "index": 18
+  },
+  {
+    "text": "First, some background on the ODL. For the last two years the Ontario Library Association has acted as a catalyst, bringing together the stakeholders needed to create the Ontario Digital Library (ODL). These stakeholders include Ontario\u2019s 5000+ public libraries, university, college, and school libraries, as well as Ontario government ministries. Libraries that serve very different clientele recognize that by working together they can create seamless access to quality electronic library services. Through the ODL, students will be able to explore a topic at school, use the same child-safe resources after school (either at home or at a public library), enter college or university with a knowledge of how to use electronic resources that are still available and then, after graduation, continue to use these skills and resources at work or at home. We are moving into a period of convergence. With convergence we no longer have to license commercial products as individual libraries or institutions. We can work together to spend our money wisely. The provincial government has made this possible by working hard to provide all Ontarians with a stable, high-speed communications infrastructure. While there is still a great deal of work needed to improve this infrastructure, libraries are beginning to plan how best to exploit communications technology. We can reduce barriers to access and create the content infrastructure needed to support a knowledge society. The concept of an ODL is a key element inThe Roadmap to Prosperity, a strategic plan to envision and attain Ontario\u2019s economic goal prepared by the Ontario Jobs and Investment Board. The OJIB strategic plan recommends an electronic library to \u201cconnect students to new workplaces, new sources of information and applied learning opportunities\u201d. The ODL will do that and much more. The ODL will connect students to electronic information, and will also leverage this investment to help connect all citizens to the electronic information they need as they make decisions, solve problems and enhance their quality of life. Libraries have long been a key delivery point for public services. The ODL will allow that delivery point to move closer to citizens, into the smallest of libraries and even into living rooms. Libraries have a long tradition of using a practical, consultative approach to solving problems, and of learning from others. The ODL is a very practical solution to various problems. Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is leading edge for Ontario but several jurisdictions have forged the path with collaborative digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 240,
+      "width": 435,
+      "height": 478
+    },
+    "bbox": [
+      91,
+      240,
+      526,
+      718
+    ],
+    "page_number": 3,
+    "lines": 32,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 32,
+      "original_styles_count": 32
+    },
+    "consolidation_info": {
+      "original_lines_count": 32,
+      "original_spans_count": 32,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 19
+  },
+  {
+    "text": "was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively with its members to promote universal access to materials and resources in more than 250 public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does not include elementary or secondary schools. However, the timeline and funding we are proposing for ODL is comparable to TAL\u2018s experience. TAL\u2019s business planning took several years. TAL\u2019s implementation plan was supported by 8 million dollars in provincially shared funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is Alberta\u2019s population 30% of Ontario\u2019s, TAL does not include elementary or secondary schools as partners; it has 250 member libraries. ODL envisions universal access for all 10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can learn from TAL\u2019s practices, the scope of planning and implementing ODL is much larger than TAL. The ODL will be a partnership-based organization providing seamless electronic information services and resources to the citizens of Ontario. It will use local libraries as the entry point for common resources The ODL will recognize the unique responsibilities and needs of public libraries, school libraries, college and university libraries and special libraries. The ODL envisions a digital network of information resources, allowing members to collaborate when there is mutual benefit and to support the common mandates of local libraries. The principles which will define and guide the ODL are:",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 73,
+      "width": 435,
+      "height": 264
+    },
+    "bbox": [
+      91,
+      73,
+      526,
+      337
+    ],
+    "page_number": 4,
+    "lines": 19,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 19,
+      "original_styles_count": 19
+    },
+    "consolidation_info": {
+      "original_lines_count": 19,
+      "original_spans_count": 19,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 20
+  },
+  {
+    "text": "Equitable access for all Ontarians:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 350,
+      "width": 174,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      350,
+      265,
+      362
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 21
+  },
+  {
+    "text": "We will bring consistent, high-quality electronic resources and services to 10 million Ontario citizens We will eliminate barriers to the access to information and create more consistent services for library clients.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 374,
+      "width": 417,
+      "height": 62
+    },
+    "bbox": [
+      109,
+      374,
+      526,
+      436
+    ],
+    "page_number": 4,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 22
+  },
+  {
+    "text": "Shared decision-making and accountability:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 449,
+      "width": 223,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      449,
+      314,
+      461
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 23
+  },
+  {
+    "text": "We will facilitate consensus among members regarding ODL\u2019s portfolio of electronic licenses and services We will balance the interests and realities of small and large as well as rich and poor communities and institutions.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 473,
+      "width": 417,
+      "height": 63
+    },
+    "bbox": [
+      109,
+      473,
+      526,
+      536
+    ],
+    "page_number": 4,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 24
+  },
+  {
+    "text": "Shared governance structure:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 548,
+      "width": 152,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      548,
+      243,
+      560
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 25
+  },
+  {
+    "text": "We will share decision-making in order to enable the people we serve. We will work based on an underlying assumption of trust and synergy.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 573,
+      "width": 327,
+      "height": 37
+    },
+    "bbox": [
+      109,
+      573,
+      436,
+      610
+    ],
+    "page_number": 4,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 26
+  },
+  {
+    "text": "Shared funding:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 622,
+      "width": 83,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      622,
+      174,
+      634
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 27
+  },
+  {
+    "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale and put Ontario dollars to work for everyone. We will be willing to pool talents and dollars in order to provide common services that are truly greater than those that can be maintained by individual institutions.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 647,
+      "width": 417,
+      "height": 62
+    },
+    "bbox": [
+      109,
+      647,
+      526,
+      709
+    ],
+    "page_number": 4,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 28
+  },
+  {
+    "text": "Local points of entry:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 73,
+      "width": 110,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      73,
+      200,
+      85
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 29
+  },
+  {
+    "text": "We will provide the licenses, infrastructure, services and support that enable local libraries to provide exceptional services to their clientele. ODL will focus on support, providing the underpinning, not overshadowing. Services envisioned for the ODL\u2019s include:",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 98,
+      "width": 412,
+      "height": 63
+    },
+    "bbox": [
+      90,
+      98,
+      502,
+      161
+    ],
+    "page_number": 5,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 30
+  },
+  {
+    "text": "Access:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 174,
+      "width": 46,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      174,
+      136,
+      186
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 31
+  },
+  {
+    "text": "to the \u201cdeep\u201d web (i.e. Commercial, purchased electronic services) to credible web sites and electronic resources to digital government information to local digital collections",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 108,
+      "y": 186,
+      "width": 327,
+      "height": 51
+    },
+    "bbox": [
+      108,
+      186,
+      435,
+      237
+    ],
+    "page_number": 5,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 32
+  },
+  {
+    "text": "Guidance and Advice:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 250,
+      "width": 119,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      250,
+      209,
+      262
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 33
+  },
+  {
+    "text": "to support e-learning to support citizens, in real-time, as they try to use electronic resources to assist citizens as they use web-links",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 108,
+      "y": 262,
+      "width": 344,
+      "height": 38
+    },
+    "bbox": [
+      108,
+      262,
+      452,
+      300
+    ],
+    "page_number": 5,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 34
+  },
+  {
+    "text": "Training:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 300,
+      "width": 51,
+      "height": 13
+    },
+    "bbox": [
+      90,
+      300,
+      141,
+      313
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 35
+  },
+  {
+    "text": "for library workers for the general public",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 108,
+      "y": 313,
+      "width": 106,
+      "height": 25
+    },
+    "bbox": [
+      108,
+      313,
+      214,
+      338
+    ],
+    "page_number": 5,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 36
+  },
+  {
+    "text": "Provincial Purchasing & Licensing:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 351,
+      "width": 188,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      351,
+      278,
+      363
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 37
+  },
+  {
+    "text": "of electronic content on a consortia basis for all member libraries",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 108,
+      "y": 363,
+      "width": 318,
+      "height": 13
+    },
+    "bbox": [
+      108,
+      363,
+      426,
+      376
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 38
+  },
+  {
+    "text": "Technological Support:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 389,
+      "width": 126,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      389,
+      216,
+      401
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 39
+  },
+  {
+    "text": "of common standards for the preservation and archiving local digital content of a common interface to ODL resources and services that can be imbedded in local library web sites",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 108,
+      "y": 402,
+      "width": 413,
+      "height": 37
+    },
+    "bbox": [
+      108,
+      402,
+      521,
+      439
+    ],
+    "page_number": 5,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 40
+  },
+  {
+    "text": "What could the ODL really mean?",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 467,
+      "width": 181,
+      "height": 15
+    },
+    "bbox": [
+      90,
+      467,
+      271,
+      482
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 41
+  },
+  {
+    "text": "For each Ontario citizen it could mean:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 494,
+      "width": 197,
+      "height": 13
+    },
+    "bbox": [
+      90,
+      494,
+      287,
+      507
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 42
+  },
+  {
+    "text": "One local point of entry to access seamless electronic library services and resources for their personal, educational and professional needs; Access to credible, high-quality, user-friendly electronic services through their community, school, or academic library; Confidence that the electronic services and sources they \u2013 and their children \u2013 are using are safe, valid, and bringing them both global and local perspectives; Electronic information and tools that enhance job skills and the learning experience",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 163,
+      "y": 507,
+      "width": 363,
+      "height": 114
+    },
+    "bbox": [
+      163,
+      507,
+      526,
+      621
+    ],
+    "page_number": 5,
+    "lines": 9,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 9,
+      "original_styles_count": 9
+    },
+    "consolidation_info": {
+      "original_lines_count": 9,
+      "original_spans_count": 9,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 43
+  },
+  {
+    "text": "For each Ontario student it could mean:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 90,
+      "y": 633,
+      "width": 202,
+      "height": 12
+    },
+    "bbox": [
+      90,
+      633,
+      292,
+      645
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 44
+  },
+  {
+    "text": "One local point of entry to quality, curriculum- based electronic information resources and services Connection to their individual educational environment, whether at the elementary, secondary or post-secondary levels",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 163,
+      "y": 646,
+      "width": 345,
+      "height": 50
+    },
+    "bbox": [
+      163,
+      646,
+      508,
+      696
+    ],
+    "page_number": 5,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 45
+  },
+  {
+    "text": "Confidence that the services and resources people are using are credible, available when they need them and adaptable to different learning styles",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 163,
+      "y": 73,
+      "width": 344,
+      "height": 25
+    },
+    "bbox": [
+      163,
+      73,
+      507,
+      98
+    ],
+    "page_number": 6,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 46
+  },
+  {
+    "text": "For each Ontario library it could mean:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 111,
+      "width": 195,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      111,
+      286,
+      123
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 47
+  },
+  {
+    "text": "One point of entry for themselves and their clientele to quality electronic resources and services that support and enhance their collections, programs and services The opportunity to show case their local community, collections, services, and expertise The opportunity to gain from the provincial, collaborative partnership in order to provide a seamless gateway to digital resources and services",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 163,
+      "y": 123,
+      "width": 362,
+      "height": 88
+    },
+    "bbox": [
+      163,
+      123,
+      525,
+      211
+    ],
+    "page_number": 6,
+    "lines": 7,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 7,
+      "original_styles_count": 7
+    },
+    "consolidation_info": {
+      "original_lines_count": 7,
+      "original_spans_count": 7,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 48
+  },
+  {
+    "text": "For the Ontario government it could mean:",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 224,
+      "width": 215,
+      "height": 13
+    },
+    "bbox": [
+      91,
+      224,
+      306,
+      237
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 49
+  },
+  {
+    "text": "Apoint of entry to information services and resources for all Ontario citizens,",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 163,
+      "y": 237,
+      "width": 7,
+      "height": 12
+    },
+    "bbox": [
+      163,
+      237,
+      170,
+      249
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 50
+  },
+  {
+    "text": "connecting to portal initiatives. Support of the Ontario E-Learning strategy through a collaborative digital library initiative that positions Ontario on the global e-learning scene Improved access and flexibility for all students at all ages and stages (supports Ontario\u2019s lifelong learning strategy) The opportunity to address emerging job skills shortages and facilitate school to work and job to job transitions with the necessary information and knowledge supports and tools ODL will be an incorporated non-profit organization governed by a Board of Directors elected by a voting membership. The Board will include representatives from all stakeholders. We envision a governance model similar to that prepared for the province\u2019s ORION network. More information regarding the envisioned phasing, funding and resources required for the ODL can be found in the appendixes.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 250,
+      "width": 435,
+      "height": 189
+    },
+    "bbox": [
+      91,
+      250,
+      526,
+      439
+    ],
+    "page_number": 6,
+    "lines": 13,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 13,
+      "original_styles_count": 13
+    },
+    "consolidation_info": {
+      "original_lines_count": 13,
+      "original_spans_count": 13,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 51
+  },
+  {
+    "text": "The Business Plan to be Developed",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 460,
+      "width": 218,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      460,
+      315,
+      477
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 52
+  },
+  {
+    "text": "The business plan which needs to be developed for the ODL must be a formal business plan that documents and clearly communicates the ODL\u2019s services, funding and governance structures, as well as implementation plans for 2004-2005, and operational plans for 2005- 2007. The planning process must also secure the full commitment of all stakeholders, as represented on the Steering Committee. Specifically, the business plan must include: how the ODL will be implemented, including the timeline the financial plan for the implementation the financial plan for the first 2 operating years, including capital and operating costs, revenues, etc. a financial forecast for the succeeding 2 operating years the services and products to be delivered by the ODL how the ODL will operate and be managed following the implementation who will be involved, and what their role/responsibility will be, for both the implementation and operational stages",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 504,
+      "width": 435,
+      "height": 214
+    },
+    "bbox": [
+      91,
+      504,
+      526,
+      718
+    ],
+    "page_number": 6,
+    "lines": 15,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 15,
+      "original_styles_count": 15
+    },
+    "consolidation_info": {
+      "original_lines_count": 15,
+      "original_spans_count": 15,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 53
+  },
+  {
+    "text": "the marketing and communications plan for the ODL the commitment of all stakeholders to their responsibilities The process of developing this business plan must be extremely consultative to ensure that all stakeholders are engaged in creating a synergistic ODL organization.The proposal must",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 73,
+      "width": 424,
+      "height": 63
+    },
+    "bbox": [
+      91,
+      73,
+      515,
+      136
+    ],
+    "page_number": 7,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 54
+  },
+  {
+    "text": "indicate how this consultative process will be approached.",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 136,
+      "width": 270,
+      "height": 12
+    },
+    "bbox": [
+      91,
+      136,
+      361,
+      148
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 55
+  },
+  {
+    "text": "The business plan for the ODL must address significant issues. There are, for example, enormous differences in the financial resources available to libraries mandated to provide similar services. Some post-secondary and public libraries, particularly those in large urban areas, have the facilities, funding and technological infrastructure necessary to service their patrons with electronic services and resources.  Many others, particularly in rural regions, do not.The proposal must indicate how these issues will be approached.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 161,
+      "width": 428,
+      "height": 76
+    },
+    "bbox": [
+      91,
+      161,
+      519,
+      237
+    ],
+    "page_number": 7,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 56
+  },
+  {
+    "text": "Milestones",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 16777215,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 271,
+      "width": 70,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      271,
+      167,
+      288
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 57
+  },
+  {
+    "text": "1) A preliminary report will be issued during June 2003. 2) It is expected that an Interim Report, suitable for distribution to the broader library community will be available by August 1, 2003 and that there will be an opportunity for responses to be evaluated. 3) The business plan must be completed and approved by the ODL Steering Committee no later than September 30, 2003.",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 303,
+      "width": 417,
+      "height": 100
+    },
+    "bbox": [
+      109,
+      303,
+      526,
+      403
+    ],
+    "page_number": 7,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 58
+  },
+  {
+    "text": "Approach and Specific Proposal Requirements",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 100,
+      "y": 424,
+      "width": 288,
+      "height": 17
+    },
+    "bbox": [
+      100,
+      424,
+      388,
+      441
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 59
+  },
+  {
+    "text": "The firm/consultant(or proposed team of consultants)will be expected to work closely with the ODL Steering Committee. Terms of reference for the Committee are in the appendix. Given the consultative nature of this business planning process, the firm/consultant will also be expected to travel and communicate regularly with various stakeholders as well as with electronic resource publishers/vendors. The proposal should include the following information: a) name of the firm/consultant b) names of those individuals who will be engaged in this project, their specific responsibilities on this project and relevant experience/qualifications c) description of similar engagements that highlight the firm\u2019s experience in business planning and building stakeholder commitment d) references with details of work completed for these references e) description of the approach that will be used for completing the business plan, including a timeline f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment structure",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 457,
+      "width": 435,
+      "height": 226
+    },
+    "bbox": [
+      91,
+      457,
+      526,
+      683
+    ],
+    "page_number": 7,
+    "lines": 16,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 16,
+      "original_styles_count": 16
+    },
+    "consolidation_info": {
+      "original_lines_count": 16,
+      "original_spans_count": 16,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 60
+  },
+  {
+    "text": "Evaluation and Awarding of Contract",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 82,
+      "width": 228,
+      "height": 16
+    },
+    "bbox": [
+      97,
+      82,
+      325,
+      98
+    ],
+    "page_number": 8,
+    "lines": 1,
+    "index": 61
+  },
+  {
+    "text": "The contract will be awarded to the bidder whose submission offers the best value; the contract will not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to any of the bidders responding to this RFP and we may seek further response. Specifically, proposals will be evaluated proposals according to the following criteria: Quality of the proposal /approach outlined for undertaking the business planning process Demonstrated experience Cost, including expenses Timeline and projected completion date Other relevant factors as determined by the ODL Steering Committee Questions regarding this RFP should be directed by e-mail only to Michael Ridley (mridley@uoguelph.ca). Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering Committee.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 123,
+      "width": 434,
+      "height": 227
+    },
+    "bbox": [
+      91,
+      123,
+      525,
+      350
+    ],
+    "page_number": 8,
+    "index": 62
+  },
+  {
+    "text": "Appendix A:  ODL Envisioned Phases & Funding",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 108,
+      "width": 293,
+      "height": 17
+    },
+    "bbox": [
+      91,
+      108,
+      384,
+      125
+    ],
+    "page_number": 9,
+    "lines": 1,
+    "index": 63
+  },
+  {
+    "text": "Phase I:  Business Planning Timeline:March 2003 \u2013 September 2003 Funding Requested:~$100,000 jointly funded by stakeholder groups and the provincial government. Result:The ODL business plan",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 140,
+      "width": 129,
+      "height": 69
+    },
+    "bbox": [
+      91,
+      140,
+      220,
+      209
+    ],
+    "page_number": 9,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 64
+  },
+  {
+    "text": "The first phase will be to build the ODL business plan. This plan will clearly define the ODL\u2019s services, funding and governance structures, as well as implementation plans for 2003-2005. It will also secure the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond. Given the number and diversity of stakeholders involved, the business planning process must be a fully consultative approach. To ensure that the planning results in a workable plan with the full commitment of all stakeholders it must have competent, dedicated staffing and monies for the travel and communication components so critical in a consultative process.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 221,
+      "width": 433,
+      "height": 92
+    },
+    "bbox": [
+      91,
+      221,
+      524,
+      313
+    ],
+    "page_number": 9,
+    "lines": 7,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 7,
+      "original_styles_count": 7
+    },
+    "consolidation_info": {
+      "original_lines_count": 7,
+      "original_spans_count": 7,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 65
+  },
+  {
+    "text": "Phase II: Implementing and Transitioning Timeline:April 2004 \u2013 December 2006 Funding Requested:Funding from other states and provinces suggest that the ODL could receive",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 336,
+      "width": 188,
+      "height": 45
+    },
+    "bbox": [
+      91,
+      336,
+      279,
+      381
+    ],
+    "page_number": 9,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 66
+  },
+  {
+    "text": "funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library stakeholders and other interested parties.",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 382,
+      "width": 423,
+      "height": 22
+    },
+    "bbox": [
+      91,
+      382,
+      514,
+      404
+    ],
+    "page_number": 9,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 67
+  },
+  {
+    "text": "Result:The ODL is implemented and validated",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 416,
+      "width": 34,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      416,
+      125,
+      427
+    ],
+    "page_number": 9,
+    "lines": 1,
+    "index": 68
+  },
+  {
+    "text": "The second phase will be to implement the ODL based on the business plan. This phase recognizes that for ODL to be optimally successful libraries must transition to a new way of doing business and providing services. The transition must occur while libraries continue to provide existing services and respond to current challenges. This implementation phase will funded by a partnership of government, library stakeholders and other interested parties as a means to quickly jumpstart the ODL. The seed money requested will allow libraries to realign their budgets and services as the infrastructure and content of the ODL is created and secured.Some of the funding will be new money, although there",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 439,
+      "width": 434,
+      "height": 92
+    },
+    "bbox": [
+      91,
+      439,
+      525,
+      531
+    ],
+    "page_number": 9,
+    "lines": 7,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 7,
+      "original_styles_count": 7
+    },
+    "consolidation_info": {
+      "original_lines_count": 7,
+      "original_spans_count": 7,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 69
+  },
+  {
+    "text": "is every indication that existing budgets and methods of operating may be modified as a result of recommendations. During this phase the polices, procedures, governance structures and accountability",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 531,
+      "width": 434,
+      "height": 23
+    },
+    "bbox": [
+      91,
+      531,
+      525,
+      554
+    ],
+    "page_number": 9,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 70
+  },
+  {
+    "text": "mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded. Information resources will be identified, contracts for these resources will be negotiated and resources will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is achieving its objectives and is accountable to its key communities.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 554,
+      "width": 434,
+      "height": 46
+    },
+    "bbox": [
+      91,
+      554,
+      525,
+      600
+    ],
+    "page_number": 9,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 71
+  },
+  {
+    "text": "Phase III: Operating and Growing the ODL Timeline:January 2007 - Funding:$50 Million annually ($35 Million requested from government) Result:The ODL is fully operational and sustainable",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 612,
+      "width": 192,
+      "height": 68
+    },
+    "bbox": [
+      91,
+      612,
+      283,
+      680
+    ],
+    "page_number": 9,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 72
+  },
+  {
+    "text": "In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits of the initiative and libraries will consolidate support around the ODL to grow resources and extend",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 692,
+      "width": 428,
+      "height": 23
+    },
+    "bbox": [
+      91,
+      692,
+      519,
+      715
+    ],
+    "page_number": 9,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 73
+  },
+  {
+    "text": "capabilities. The challenge is to secure resources sufficient to both sustain the original investments and to enhance the ODL. The ongoing funding of the ODL will be based on a partnership model involving all the key participants (i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are expected to make financial contributions to the ODL. It is important in achieving the full impact of the ODL on Ontario\u2019s economy, society and learning support that all library sectors are participants (university, colleges, public libraries and schools). The proposed funding model requires a continuing government investment, but also recognizes that as the ODL matures a growing share of ODL funding will come from libraries and non-governmental sources. During the 3-year implementation phase (2004 \u2013 2006) libraries will realign their budgets to enable ongoing funding contributions to ODL. During the same period ODL must build the proposed endowment and secure public and private sector gifts and/or in-kind contributions. The following chart outlines the model. This model is based on these assumptions: 1. that ODL expenditures will increase by 50% over a 10 year period 2. that government funding will decrease from 70% to 45% during that 10 year period 3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55% during the same period",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 73,
+      "width": 432,
+      "height": 230
+    },
+    "bbox": [
+      91,
+      73,
+      523,
+      303
+    ],
+    "page_number": 10,
+    "lines": 17,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 17,
+      "original_styles_count": 17
+    },
+    "consolidation_info": {
+      "original_lines_count": 17,
+      "original_spans_count": 17,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 74
+  },
+  {
+    "text": "OVERVIEW OF ODL FUNDING MODEL",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 246,
+      "y": 321,
+      "width": 178,
+      "height": 11
+    },
+    "bbox": [
+      246,
+      321,
+      424,
+      332
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 75
+  },
+  {
+    "text": "Funding Source20072017",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 115,
+      "y": 345,
+      "width": 91,
+      "height": 13
+    },
+    "bbox": [
+      115,
+      345,
+      206,
+      358
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 76
+  },
+  {
+    "text": "Government$35M (70%)$33.75M (45%) Libraries$10M (20%)$22.5M (30%) Endowment$4.5M (9%)$15M (20%) Gifts/In-Kind$0.5M (1%)$3.75M (5%)",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 115,
+      "y": 359,
+      "width": 55,
+      "height": 47
+    },
+    "bbox": [
+      115,
+      359,
+      170,
+      406
+    ],
+    "page_number": 10,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 77
+  },
+  {
+    "text": "TOTAL ANNUAL$50M$75M",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 115,
+      "y": 407,
+      "width": 81,
+      "height": 11
+    },
+    "bbox": [
+      115,
+      407,
+      196,
+      418
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 78
+  },
+  {
+    "text": "While the private sector will be invited to participate in the ODL through the endowment, gifts and in- kind contributions, the ODL will also explore compatible commercial services which leverage the reach of the ODL and help to offset operating costs. A $50M budget leverages the consortium buying power of the province\u2019s libraries to secure the best prices for information resources, the widest accessibility and the most favourable contracts. A budget of this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview of the nature of the ODL digital collection is appended).The proposed ODL expenditures in 2006",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 442,
+      "width": 433,
+      "height": 103
+    },
+    "bbox": [
+      91,
+      442,
+      524,
+      545
+    ],
+    "page_number": 10,
+    "lines": 8,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 8,
+      "original_styles_count": 8
+    },
+    "consolidation_info": {
+      "original_lines_count": 8,
+      "original_spans_count": 8,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 79
+  },
+  {
+    "text": "represent an investment of $5.00 per citizen.",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 546,
+      "width": 202,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      546,
+      293,
+      557
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 80
+  },
+  {
+    "text": "It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a double benefit: it supports a province-wide library of high quality information resources and it strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources that enhance local services.This multiplier means that for every dollar invested in ODL the return",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 568,
+      "width": 430,
+      "height": 46
+    },
+    "bbox": [
+      91,
+      568,
+      521,
+      614
+    ],
+    "page_number": 10,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 81
+  },
+  {
+    "text": "on investment is worth $2 of value for Ontario.",
+    "styles_used": [
+      {
+        "font": "Arial-BoldItalicMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 615,
+      "width": 211,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      615,
+      302,
+      626
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 82
+  },
+  {
+    "text": "Appendix B:ODL Steering Committee Terms of Reference",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 93,
+      "width": 77,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      93,
+      174,
+      110
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 83
+  },
+  {
+    "text": "1. Preamble",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 137,
+      "width": 56,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      137,
+      147,
+      148
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 84
+  },
+  {
+    "text": "Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed and supported by its diverse stakeholder communities (see:www.odl.on.ca).  The business development planning and commitment process will be overseen by a Steering Committee, who are accountable to potential ODL funders including  the Province of Ontario.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 160,
+      "width": 426,
+      "height": 46
+    },
+    "bbox": [
+      96,
+      160,
+      522,
+      206
+    ],
+    "page_number": 11,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 85
+  },
+  {
+    "text": "2. Terms of Reference",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 218,
+      "width": 101,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      218,
+      192,
+      229
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 86
+  },
+  {
+    "text": "In broad terms, the ODL Business Plan Steering Committee is responsible for development of the business plan, securing sector support, and management of the planners and process.  Specific responsibilities include: 2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including governance, management, funding model and structure, organizational structure, marketing, staffing, and evaluation; 2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way communication, and to ensure meaningful opportunities for stakeholder input into decision- making; 2.3 recruiting and managing the business planner(s); 2.4 defining terms of reference and resource parameters for business planner(s), and authorizing expenditures; 2.5 serving as a focus group for business planner(s) to test ideas; 2.6 providing signoff for business planner(s) at key decision points of business plan development; 2.7 securing commitment from library, government, and institutional stakeholders for implementation of the business plan; 2.8 presenting the business plan to funders 2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library and education communities.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 241,
+      "width": 429,
+      "height": 230
+    },
+    "bbox": [
+      96,
+      241,
+      525,
+      471
+    ],
+    "page_number": 11,
+    "lines": 19,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 19,
+      "original_styles_count": 19
+    },
+    "consolidation_info": {
+      "original_lines_count": 19,
+      "original_spans_count": 19,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 87
+  },
+  {
+    "text": "3. Membership",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 482,
+      "width": 69,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      482,
+      160,
+      493
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 88
+  },
+  {
+    "text": "Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two representatives to the steering committee 3.1 Schools: - Ontario School Library Association (OSLA) and The Association of Library Consultants and Coordinators of Ontario (TALCO)  (Executive Council of OSLA to name representative in",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 505,
+      "width": 419,
+      "height": 69
+    },
+    "bbox": [
+      96,
+      505,
+      515,
+      574
+    ],
+    "page_number": 11,
+    "lines": 5,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 5,
+      "original_styles_count": 5
+    },
+    "consolidation_info": {
+      "original_lines_count": 5,
+      "original_spans_count": 5,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 89
+  },
+  {
+    "text": "consultation with TALCO)",
+    "styles_used": [
+      {
+        "font": "Arial-ItalicMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": true,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 127,
+      "y": 574,
+      "width": 104,
+      "height": 11
+    },
+    "bbox": [
+      127,
+      574,
+      231,
+      585
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 90
+  },
+  {
+    "text": "3.2 Universities: - Ontario Council of University Libraries (OCUL) (OCUL to name) 3.3 Colleges: - Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLRto name) 3.4 Public libraries: - Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO) (Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name)",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 586,
+      "width": 426,
+      "height": 103
+    },
+    "bbox": [
+      96,
+      586,
+      522,
+      689
+    ],
+    "page_number": 11,
+    "lines": 9,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 9,
+      "original_styles_count": 9
+    },
+    "consolidation_info": {
+      "original_lines_count": 9,
+      "original_spans_count": 9,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 91
+  },
+  {
+    "text": "3.5 Ontario Library Association representative (ex-officio)  (OLA to appoint one representative) - Role of the OLA ex-officio member: To act as a liaison between the steering committee and the OLA Board, and to assist the chair with the administrative responsibilities connected with the preparation of the business plan, finance, and communications. 3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its discretion, call on invited experts to advise on issues as required.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 73,
+      "width": 423,
+      "height": 80
+    },
+    "bbox": [
+      96,
+      73,
+      519,
+      153
+    ],
+    "page_number": 12,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 92
+  },
+  {
+    "text": "4. Appointment Criteria and Process",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 165,
+      "width": 174,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      165,
+      265,
+      176
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 93
+  },
+  {
+    "text": "4.1Groups and organizations named in Section 3 above are responsible for appointing up to two representatives to the Steering Committee. 4.2Desired characteristics for steering committee appointees include:",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 188,
+      "width": 219,
+      "height": 47
+    },
+    "bbox": [
+      96,
+      188,
+      315,
+      235
+    ],
+    "page_number": 12,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 94
+  },
+  {
+    "text": "Strategic thinkers;",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 127,
+      "y": 248,
+      "width": 78,
+      "height": 12
+    },
+    "bbox": [
+      127,
+      248,
+      205,
+      260
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 95
+  },
+  {
+    "text": "\u2022Committed to the concept of multi-sector partnerships; \u2022",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 260,
+      "width": 7,
+      "height": 25
+    },
+    "bbox": [
+      109,
+      260,
+      116,
+      285
+    ],
+    "page_number": 12,
+    "index": 96
+  },
+  {
+    "text": "Knowledgeable about digital libraries and resources;",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 127,
+      "y": 273,
+      "width": 221,
+      "height": 11
+    },
+    "bbox": [
+      127,
+      273,
+      348,
+      284
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 97
+  },
+  {
+    "text": "\u2022Knowledgeable about government structures; \u2022Respected by their communities; influential; \u2022Able to take a consultative approach;",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 109,
+      "y": 284,
+      "width": 7,
+      "height": 37
+    },
+    "bbox": [
+      109,
+      284,
+      116,
+      321
+    ],
+    "page_number": 12,
+    "index": 98
+  },
+  {
+    "text": "Able to devote time to Steering Committee business: approximately one day per month for meetings plus 2-3 working days per month on related activities.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 127,
+      "y": 324,
+      "width": 379,
+      "height": 24
+    },
+    "bbox": [
+      127,
+      324,
+      506,
+      348
+    ],
+    "page_number": 12,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 99
+  },
+  {
+    "text": "5. Term",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 360,
+      "width": 44,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      360,
+      135,
+      371
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 100
+  },
+  {
+    "text": "Expected term on the Steering Committee is the time required to complete development of the business plan plus two months. This process is expected to take approximately 6 months.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 383,
+      "width": 397,
+      "height": 23
+    },
+    "bbox": [
+      96,
+      383,
+      493,
+      406
+    ],
+    "page_number": 12,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 101
+  },
+  {
+    "text": "6. Chair",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 418,
+      "width": 45,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      418,
+      136,
+      429
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 102
+  },
+  {
+    "text": "Chair will be appointed by the Board of the Ontario Library Association. Role of the Chair: In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent working with the selected consultant(s), OLA, and the Steering Committee to prepare the business plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of the business plan, and communications to stakeholders, funders, and government.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 441,
+      "width": 420,
+      "height": 94
+    },
+    "bbox": [
+      96,
+      441,
+      516,
+      535
+    ],
+    "page_number": 12,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 103
+  },
+  {
+    "text": "7. Meetings",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 546,
+      "width": 62,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      546,
+      153,
+      557
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 104
+  },
+  {
+    "text": "It is expected that in person meetings are held once per month and the majority of business will be conducted by e-mail, and teleconference.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 570,
+      "width": 413,
+      "height": 22
+    },
+    "bbox": [
+      96,
+      570,
+      509,
+      592
+    ],
+    "page_number": 12,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 105
+  },
+  {
+    "text": "8. Lines of Accountability and Communication",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 604,
+      "width": 219,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      604,
+      310,
+      615
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 106
+  },
+  {
+    "text": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan funders. 8.2 The role of the Ontario Library Association is to assume responsibility for  funds contributed by the ODL funders to finance the business plan, to hold the funds in a separate account, and disperse them for purposes as  directed by the Steering Committee. OLA will provide financial reports to the Steering Committee as requested and shall comply with all government reporting regulations for funds received.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 627,
+      "width": 427,
+      "height": 92
+    },
+    "bbox": [
+      96,
+      627,
+      523,
+      719
+    ],
+    "page_number": 12,
+    "lines": 7,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 7,
+      "original_styles_count": 7
+    },
+    "consolidation_info": {
+      "original_lines_count": 7,
+      "original_spans_count": 7,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 107
+  },
+  {
+    "text": "8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for ongoing communications and consultation on issues and progress.  The Steering committee is responsible for strong liaison with government particularly the Chief Information Officer Community Services Cluster, ADM\u2019s and Deputy Ministers.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 84,
+      "width": 424,
+      "height": 46
+    },
+    "bbox": [
+      96,
+      84,
+      520,
+      130
+    ],
+    "page_number": 13,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 108
+  },
+  {
+    "text": "9. Financial and Administrative Policies",
+    "styles_used": [
+      {
+        "font": "Arial-BoldMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 91,
+      "y": 142,
+      "width": 188,
+      "height": 11
+    },
+    "bbox": [
+      91,
+      142,
+      279,
+      153
+    ],
+    "page_number": 13,
+    "lines": 1,
+    "index": 109
+  },
+  {
+    "text": "9.1 Service on the Steering Committee is non-remunerative 9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the policies of the Ontario Library Association 9.3 Conflict of Interest: The ODL Steering Committee will function according to standard conflict of interest guidelines ensuring that members,  their immediate family members, or their places of employment, will not benefit financially from the decisions  the Steering Committee might make. As a first order of business, the Steering Committee will be expected to adopt a conflict of interest policy statement and procedural guidelines that will govern its work.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 96,
+      "y": 165,
+      "width": 427,
+      "height": 103
+    },
+    "bbox": [
+      96,
+      165,
+      523,
+      268
+    ],
+    "page_number": 13,
+    "lines": 9,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 9,
+      "original_styles_count": 9
+    },
+    "consolidation_info": {
+      "original_lines_count": 9,
+      "original_spans_count": 9,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 110
+  },
+  {
+    "text": "Appendix C:ODL\u2019s Envisioned Electronic Resources",
+    "styles_used": [
+      {
+        "font": "Arial-Black",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 93,
+      "width": 77,
+      "height": 17
+    },
+    "bbox": [
+      97,
+      93,
+      174,
+      110
+    ],
+    "page_number": 14,
+    "lines": 1,
+    "index": 111
+  },
+  {
+    "text": "The purpose of the ODL is to provide equal access to information for all Ontario citizens through collaboration and resource sharing. ODL will be a portal - capable of customization as a home page for local libraries - to organized, comprehensive, authoritative and validated e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects of their education, life and work. Some examples: 1. Reference Resources - directories: companies, associations, organizations, governments, educational institutions, etc. etc. - almanacs, country information - dictionaries, thesauri, encyclopedias -consumer information - phone books, - travel guides, entertainment guides - weather information - media/newspapers - leisure time, recreational activity guides - indexing and abstracting services - currency converters, - virtual reference services -vocational/career information -internet search engines -current awareness services 2. Subject Guides -arts and humanities - business and economics - education -recreation and sports -entertainment - games, activities for kids -health information -science and technology -social sciences -society and culture 3. Educational tool-kits -guides to information gathering methodologies, information literacy -study guides -study skill development -web-based curricula -internet search guides 4. Journals, books, maps, music etc.",
+    "styles_used": [
+      {
+        "font": "ArialMT",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 97,
+      "y": 137,
+      "width": 402,
+      "height": 529
+    },
+    "bbox": [
+      97,
+      137,
+      499,
+      666
+    ],
+    "page_number": 14,
+    "lines": 39,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 39,
+      "original_styles_count": 39
+    },
+    "consolidation_info": {
+      "original_lines_count": 39,
+      "original_spans_count": 39,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 112
+  }
+]

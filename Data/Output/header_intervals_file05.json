@@ -1,0 +1,19 @@
+[
+  {
+    "level": "H1",
+    "index": 5,
+    "text": "HOPEToSEEYouTHERE!",
+    "style": {
+      "font": "Helvetica-Bold",
+      "size": 23,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  }
+]

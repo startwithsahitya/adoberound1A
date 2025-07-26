@@ -1,0 +1,180 @@
+[
+  {
+    "text": "ADDRESS: TOPJUMP 3735PARKWAY PIGEON FORGE, TN 37863",
+    "styles_used": [
+      {
+        "font": "Helvetica",
+        "size": 13,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 33,
+      "y": 445,
+      "width": 217,
+      "height": 59
+    },
+    "bbox": [
+      33,
+      445,
+      250,
+      504
+    ],
+    "page_number": 1,
+    "index": 1
+  },
+  {
+    "text": "(NEAR DIXIE STAMPEDEONTHE PARKWAY)",
+    "styles_used": [
+      {
+        "font": "Helvetica",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 59,
+      "y": 501,
+      "width": 119,
+      "height": 13
+    },
+    "bbox": [
+      59,
+      501,
+      178,
+      514
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 2
+  },
+  {
+    "text": "RSVP:----------------",
+    "styles_used": [
+      {
+        "font": "Helvetica-Bold",
+        "size": 13,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 30,
+      "y": 524,
+      "width": 42,
+      "height": 17
+    },
+    "bbox": [
+      30,
+      524,
+      72,
+      541
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 3
+  },
+  {
+    "text": "CLOSED TOED SHOESAREQUIRED FOR CLIMBING PARENTSORGUARDIANS NOT ATTENDING THE PARTY, PLEASE VISITOPJUMP.COMTOFILLOUTWAIVER SO YOUR CHILD CAN ATTEND.",
+    "styles_used": [
+      {
+        "font": "Helvetica",
+        "size": 8,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 60,
+      "y": 556,
+      "width": 162,
+      "height": 44
+    },
+    "bbox": [
+      60,
+      556,
+      222,
+      600
+    ],
+    "page_number": 1,
+    "index": 4
+  },
+  {
+    "text": "HOPEToSEEYouTHERE!",
+    "styles_used": [
+      {
+        "font": "Helvetica-Bold",
+        "size": 23,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 34,
+      "y": 599,
+      "width": 58,
+      "height": 36
+    },
+    "bbox": [
+      34,
+      599,
+      92,
+      635
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 5
+  },
+  {
+    "text": "WWW.TOPJUMP.COM",
+    "styles_used": [
+      {
+        "font": "Helvetica",
+        "size": 19,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 94,
+      "y": 625,
+      "width": 143,
+      "height": 32
+    },
+    "bbox": [
+      94,
+      625,
+      237,
+      657
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 6
+  }
+]

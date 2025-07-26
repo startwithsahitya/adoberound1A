@@ -1,0 +1,3106 @@
+[
+  {
+    "text": "Overview Foundation Level Extensions",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 24,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 140,
+      "y": 190,
+      "width": 340,
+      "height": 82
+    },
+    "bbox": [
+      140,
+      190,
+      480,
+      272
+    ],
+    "page_number": 1,
+    "index": 1,
+    "is_title": true
+  },
+  {
+    "text": "Version 1.0",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 12,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 276,
+      "y": 383,
+      "width": 64,
+      "height": 13
+    },
+    "bbox": [
+      276,
+      383,
+      340,
+      396
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 2
+  },
+  {
+    "text": "International Software Testing Qualifications Board",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 18,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 104,
+      "y": 466,
+      "width": 410,
+      "height": 20
+    },
+    "bbox": [
+      104,
+      466,
+      514,
+      486
+    ],
+    "page_number": 1,
+    "lines": 1,
+    "index": 3
+  },
+  {
+    "text": "Copyright Notice This document may be copied in its entirety, or extracts made, if the source is acknowledged.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 653,
+      "width": 414,
+      "height": 22
+    },
+    "bbox": [
+      71,
+      653,
+      485,
+      675
+    ],
+    "page_number": 1,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 4
+  },
+  {
+    "text": "Copyright \u00a9 International Software Testing Qualifications Board (hereinafter called ISTQB\u00ae).",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 121,
+      "width": 413,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      121,
+      484,
+      132
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 5
+  },
+  {
+    "text": "Version 2014Page 2 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 2,
+    "lines": 1,
+    "index": 6
+  },
+  {
+    "text": "Revision History",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 109,
+      "width": 131,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      109,
+      202,
+      127
+    ],
+    "page_number": 3,
+    "lines": 1,
+    "index": 7
+  },
+  {
+    "text": "VersionDateRemarks",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 75,
+      "y": 140,
+      "width": 39,
+      "height": 11
+    },
+    "bbox": [
+      75,
+      140,
+      114,
+      151
+    ],
+    "page_number": 3,
+    "lines": 1,
+    "index": 8
+  },
+  {
+    "text": "0.18 JUNE 2013Initial version 0.23 JULY 2013WG reviewed and confirmed 0.36 NOV 2013amended population and diagram 0.711 DEC 2013Amended Business Outcomes and Chapters matching 0.820 DEC 2013Working group updates on 0.7 1.031 MAY 2014GA release for Agile Extension",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 75,
+      "y": 152,
+      "width": 17,
+      "height": 73
+    },
+    "bbox": [
+      75,
+      152,
+      92,
+      225
+    ],
+    "page_number": 3,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 9
+  },
+  {
+    "text": "Version 2014Page 3 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 3,
+    "lines": 1,
+    "index": 10
+  },
+  {
+    "text": "Table of Contents",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 109,
+      "width": 138,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      109,
+      209,
+      127
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 11
+  },
+  {
+    "text": "Revision History..........................................................................................................................................3 Table of Contents........................................................................................................................................4 1.Introduction to the Foundation Level Extensions............................................................................6 2.Introduction to Foundation Level Agile Tester Extension...............................................................7",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 145,
+      "width": 88,
+      "height": 64
+    },
+    "bbox": [
+      71,
+      145,
+      159,
+      209
+    ],
+    "page_number": 4,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 12
+  },
+  {
+    "text": "2.1Intended Audience.....................................................................................................................7 2.2Career Paths for Testers............................................................................................................7 2.3Learning Objectives...................................................................................................................7 2.4Entry Requirements...................................................................................................................8 2.5Structure and Course Duration...................................................................................................8 2.6Keeping It Current......................................................................................................................9",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 81,
+      "y": 215,
+      "width": 17,
+      "height": 69
+    },
+    "bbox": [
+      81,
+      215,
+      98,
+      284
+    ],
+    "page_number": 4,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 13
+  },
+  {
+    "text": "3.Overview of the Foundation Level Extension \u2013Agile Tester Syllabus.........................................10",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 290,
+      "width": 11,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      290,
+      82,
+      301
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 14
+  },
+  {
+    "text": "3.1Business Outcomes.................................................................................................................10 3.2Content....................................................................................................................................10",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 81,
+      "y": 308,
+      "width": 17,
+      "height": 22
+    },
+    "bbox": [
+      81,
+      308,
+      98,
+      330
+    ],
+    "page_number": 4,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 15
+  },
+  {
+    "text": "4.References..........................................................................................................................................12",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 337,
+      "width": 11,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      337,
+      82,
+      348
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 16
+  },
+  {
+    "text": "4.1Trademarks.............................................................................................................................12 4.2Documents and Web Sites.......................................................................................................12",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 81,
+      "y": 354,
+      "width": 17,
+      "height": 23
+    },
+    "bbox": [
+      81,
+      354,
+      98,
+      377
+    ],
+    "page_number": 4,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 17
+  },
+  {
+    "text": "Version 2014Page 4 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 4,
+    "lines": 1,
+    "index": 18
+  },
+  {
+    "text": "Acknowledgements",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 109,
+      "width": 143,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      109,
+      214,
+      127
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 19
+  },
+  {
+    "text": "This document was produced by a team from the International Software Testing Qualifications Board Foundation Level Working Group. The Agile Extension team thanks the review team and the National Boards for their suggestions and input. At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead). Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber. Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula P\u00e4\u00e4kk\u00f6nen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytk\u00f6nen, Monika Stoecklein-Olsen, Robert Treffny, Chris Van Bael, and Erik van Veenendaal. The team thanks also the following persons, from the National Boards and the Agile expert community, who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani Almog, Richard Berns, Stephen Bird, Monika B\u00f6gge, Afeng Chai, Josephine Crawford, Tibor Cs\u00f6ndes, Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter Morgan,Ninna Morin,Ingvar Nordstrom,ChrisO\u2019Dea,KlausOlsen, IsmoPaukamainen,Nathalie Phung, Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri S\u00e4ilynoja, Soile Sainio, Lars-Erik Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde, Stephanie Ulrich, Tommi V\u00e4lim\u00e4ki, Jurian Van de Laar, Marnix Van den Ent, Ant\u00f3nio Vieira Melo, Wenye Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo. This document was formally approved for release by the General Assembly of the ISTQB\u00ae on May 31, 2014.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 145,
+      "width": 472,
+      "height": 356
+    },
+    "bbox": [
+      71,
+      145,
+      543,
+      501
+    ],
+    "page_number": 5,
+    "lines": 25,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 25,
+      "original_styles_count": 25
+    },
+    "consolidation_info": {
+      "original_lines_count": 25,
+      "original_spans_count": 25,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 20
+  },
+  {
+    "text": "Version 2014Page 5 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 5,
+    "lines": 1,
+    "index": 21
+  },
+  {
+    "text": "1.Introduction to the Foundation Level Extensions",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 123,
+      "width": 18,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      123,
+      89,
+      141
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 22
+  },
+  {
+    "text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level Extensions who wants a high-level introduction to the leading principles and an overview of the individual extension syllabi. From time to time, ISTQB will update this document to reflect any additional extensions that shall be introduced for the Foundation Level, or to reflect major changes in existing ones. Publications of the updated document will be available on the ISTQB website. The ISTQB Foundation and Advanced Level syllabi have been defined and have been on the market for some time. New topics emerge due to technology and methodology changes in the market which often are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the Expert Level. For this reason, the extension syllabi are established at the Foundation Level to expand the ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but that is beyond the scope of this document. The following Foundation Level Extension syllabus has been released:",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 147,
+      "width": 474,
+      "height": 195
+    },
+    "bbox": [
+      71,
+      147,
+      545,
+      342
+    ],
+    "page_number": 6,
+    "lines": 14,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 14,
+      "original_styles_count": 14
+    },
+    "consolidation_info": {
+      "original_lines_count": 14,
+      "original_spans_count": 14,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 23
+  },
+  {
+    "text": "Agile Tester In this document, each Foundation Level Extension syllabus is summarized and the associated Business Outcomes are stated. The Business Outcomes communicate what can be expected from a person who achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and will outline the benefits for companies that are considering the development of specific testing skills at this level.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 343,
+      "width": 474,
+      "height": 80
+    },
+    "bbox": [
+      71,
+      343,
+      545,
+      423
+    ],
+    "page_number": 6,
+    "index": 24
+  },
+  {
+    "text": "Version 2014Page 6 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 6,
+    "lines": 1,
+    "index": 25
+  },
+  {
+    "text": "2.Introduction to Foundation Level Agile Tester Extension",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 123,
+      "width": 18,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      123,
+      89,
+      141
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 26
+  },
+  {
+    "text": "The certification for Foundation Level Extension \u2013Agile Tester is designed for professionals who are working within Agile environments. It is also for professionals who are planning to start implementing Agile methods in the near future, or are working within companies that plan to do so, The certification provides an advantage for those who would like to know the required Agile activities, roles, methods, and methodologies specific to their role.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 147,
+      "width": 474,
+      "height": 57
+    },
+    "bbox": [
+      71,
+      147,
+      545,
+      204
+    ],
+    "page_number": 7,
+    "lines": 5,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 5,
+      "original_styles_count": 5
+    },
+    "consolidation_info": {
+      "original_lines_count": 5,
+      "original_spans_count": 5,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 27
+  },
+  {
+    "text": "2.1 Intended Audience",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 218,
+      "width": 148,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      218,
+      219,
+      234
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 28
+  },
+  {
+    "text": "The Foundation Level Extension \u2013Agile Tester qualification is aimed at four main groups of professionals: 1. Professionals who have achieved in-depth testing experience in traditional methods and would like to get an Agile Tester Certificate. 2. Junior professional testers who are just starting in the testing profession, have received the Foundation Level certificate, and would like to know more abouthetester\u2019srole in an Agile environment. 3. Professionals who are relatively new to testing and are required to implement test approaches, methods and techniques in their day to day job in Agile projects. 4. Professionals who are experienced in their role (including unit testing) and need more understanding and knowledge about how to perform and manage testing on all levels in Agile projects. These professionals include people who are in roles such as testers, test analysts, test engineers, test consultants, test managers, user acceptance testers, and software developers. This Foundation Level Extension \u2013Agile Tester certification may also be appropriate for anyone who wants a deeper understanding of software testing in the Agile world, such as project managers, quality managers, software development managers, business analysts, IT directors, and management consultants.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 241,
+      "width": 474,
+      "height": 219
+    },
+    "bbox": [
+      71,
+      241,
+      545,
+      460
+    ],
+    "page_number": 7,
+    "lines": 17,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 17,
+      "original_styles_count": 17
+    },
+    "consolidation_info": {
+      "original_lines_count": 17,
+      "original_spans_count": 17,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 29
+  },
+  {
+    "text": "2.2 Career Paths for Testers",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 485,
+      "width": 185,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      485,
+      256,
+      501
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 30
+  },
+  {
+    "text": "Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for professional testers. A person with the Agile Tester certificate has extended the broad understanding of testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in an Agile project. People possessing an ISTQB Foundation Level Extension \u2013Agile Tester certificate may use the Certified Tester Foundation Level acronym CTFL-AT.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 509,
+      "width": 473,
+      "height": 80
+    },
+    "bbox": [
+      71,
+      509,
+      544,
+      589
+    ],
+    "page_number": 7,
+    "lines": 6,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 6,
+      "original_styles_count": 6
+    },
+    "consolidation_info": {
+      "original_lines_count": 6,
+      "original_spans_count": 6,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 31
+  },
+  {
+    "text": "2.3 Learning Objectives",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 614,
+      "width": 155,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      614,
+      226,
+      630
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 32
+  },
+  {
+    "text": "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize, remember and recall terms and concepts stated in the Foundation Level syllabus. In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an extension exam.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 638,
+      "width": 473,
+      "height": 57
+    },
+    "bbox": [
+      71,
+      638,
+      544,
+      695
+    ],
+    "page_number": 7,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 33
+  },
+  {
+    "text": "Version 2014Page 7 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 7,
+    "lines": 1,
+    "index": 34
+  },
+  {
+    "text": "That said, each extension level exam focuses on the learning objectives defined in that extension syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each chapter within each particular extension syllabus.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 109,
+      "width": 473,
+      "height": 34
+    },
+    "bbox": [
+      71,
+      109,
+      544,
+      143
+    ],
+    "page_number": 8,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 35
+  },
+  {
+    "text": "2.4 Entry Requirements",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 157,
+      "width": 155,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      157,
+      226,
+      173
+    ],
+    "page_number": 8,
+    "lines": 1,
+    "index": 36
+  },
+  {
+    "text": "To be able to participate in a Foundation Level Extension \u2013Agile Tester exam, candidates must have obtained the ISTQB Foundation Level certificate.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 181,
+      "width": 276,
+      "height": 23
+    },
+    "bbox": [
+      71,
+      181,
+      347,
+      204
+    ],
+    "page_number": 8,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 37
+  },
+  {
+    "text": "2.5 Structure and Course Duration",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 218,
+      "width": 221,
+      "height": 15
+    },
+    "bbox": [
+      71,
+      218,
+      292,
+      233
+    ],
+    "page_number": 8,
+    "lines": 1,
+    "index": 38
+  },
+  {
+    "text": "The Foundation Level Extension \u2013Agile Tester syllabus has no shared or common elements with the Foundation Level syllabus. The syllabi must be taught in the following minimum number of days:",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 241,
+      "width": 307,
+      "height": 46
+    },
+    "bbox": [
+      71,
+      241,
+      378,
+      287
+    ],
+    "page_number": 8,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 39
+  },
+  {
+    "text": "SyllabusDays",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 213,
+      "y": 302,
+      "width": 44,
+      "height": 11
+    },
+    "bbox": [
+      213,
+      302,
+      257,
+      313
+    ],
+    "page_number": 8,
+    "lines": 1,
+    "index": 40
+  },
+  {
+    "text": "Baseline: Foundation3 Extension: Agile Tester2 The following figure shows the structure of the Agile Tester Extension and its relationship to the Foundation Level.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 320,
+      "width": 473,
+      "height": 70
+    },
+    "bbox": [
+      71,
+      320,
+      544,
+      390
+    ],
+    "page_number": 8,
+    "index": 41
+  },
+  {
+    "text": "Version 2014Page 8 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 8,
+    "lines": 1,
+    "index": 42
+  },
+  {
+    "text": "2.6 Keeping It Current",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 134,
+      "width": 145,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      134,
+      216,
+      150
+    ],
+    "page_number": 9,
+    "lines": 1,
+    "index": 43
+  },
+  {
+    "text": "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with access to relevant and current information, the ISTQB working groups have created links on the www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences in the industry. This information is not examinable under this syllabus.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 158,
+      "width": 473,
+      "height": 46
+    },
+    "bbox": [
+      71,
+      158,
+      544,
+      204
+    ],
+    "page_number": 9,
+    "lines": 4,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 4,
+      "original_styles_count": 4
+    },
+    "consolidation_info": {
+      "original_lines_count": 4,
+      "original_spans_count": 4,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 44
+  },
+  {
+    "text": "Version 2014Page 9 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 9,
+    "lines": 1,
+    "index": 45
+  },
+  {
+    "text": "3.Overview of the Foundation Level Extension \u2013Agile Tester",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 120,
+      "width": 18,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      120,
+      89,
+      138
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 46
+  },
+  {
+    "text": "Syllabus",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 139,
+      "width": 70,
+      "height": 18
+    },
+    "bbox": [
+      107,
+      139,
+      177,
+      157
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 47
+  },
+  {
+    "text": "3.1 Business Outcomes",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 188,
+      "width": 156,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      188,
+      227,
+      204
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 48
+  },
+  {
+    "text": "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level Extension \u2013Agile Tester certification.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 212,
+      "width": 473,
+      "height": 23
+    },
+    "bbox": [
+      71,
+      212,
+      544,
+      235
+    ],
+    "page_number": 10,
+    "index": 49
+  },
+  {
+    "text": "An Agile Tester can\u2026 AFM1Collaborate in a cross-functional Agile team being familiar with principles and basic practices of Agile software development. AFM2Adapt existing testing experience and knowledge to Agile values and principles. AFM3Support the Agile team in planning test-related activities. AFM4Apply relevant methods and techniques for testing in an Agile project. AFM5Assist the Agile team in test automation activities. AFM6Assist business stakeholders in defining understandable and testable user stories, scenarios, requirements and acceptance criteria as appropriate. AFM7Work and share information with other team members using effective communication styles and channels. In general, a Certified Tester Foundation Level \u2013Agile Tester is expected to have acquired the necessary skills to working effectively within an Agile team and environment.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 246,
+      "width": 360,
+      "height": 262
+    },
+    "bbox": [
+      71,
+      246,
+      431,
+      508
+    ],
+    "page_number": 10,
+    "index": 50
+  },
+  {
+    "text": "3.2 Content",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 534,
+      "width": 80,
+      "height": 15
+    },
+    "bbox": [
+      71,
+      534,
+      151,
+      549
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 51
+  },
+  {
+    "text": "Chapter 1: Agile Software Development",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 557,
+      "width": 179,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      557,
+      250,
+      568
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 52
+  },
+  {
+    "text": "\uf0b7The tester should remember the basic concept of Agile software development based on the Agile",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 568,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      568,
+      94,
+      580
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 53
+  },
+  {
+    "text": "Manifesto.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 581,
+      "width": 49,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      581,
+      156,
+      592
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 54
+  },
+  {
+    "text": "The tester should understand the advantages of the whole-team approach and the benefits of early and frequent feedback.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 593,
+      "width": 437,
+      "height": 22
+    },
+    "bbox": [
+      107,
+      593,
+      544,
+      615
+    ],
+    "page_number": 10,
+    "index": 55
+  },
+  {
+    "text": "\uf0b7The tester should recall Agile software development approaches. \uf0b7The tester should be able to write testable user stories in collaboration with developers and",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 616,
+      "width": 5,
+      "height": 24
+    },
+    "bbox": [
+      89,
+      616,
+      94,
+      640
+    ],
+    "page_number": 10,
+    "index": 56
+  },
+  {
+    "text": "business representatives.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 640,
+      "width": 117,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      640,
+      224,
+      651
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 57
+  },
+  {
+    "text": "\uf0b7The tester should understand how retrospectives can be used as a mechanism for process",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 651,
+      "width": 5,
+      "height": 13
+    },
+    "bbox": [
+      89,
+      651,
+      94,
+      664
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 58
+  },
+  {
+    "text": "improvement in Agile projects.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 664,
+      "width": 137,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      664,
+      244,
+      675
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 59
+  },
+  {
+    "text": "\uf0b7The tester should understand the use and purpose of continuous integration. \uf0b7",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 675,
+      "width": 5,
+      "height": 24
+    },
+    "bbox": [
+      89,
+      675,
+      94,
+      699
+    ],
+    "page_number": 10,
+    "index": 60
+  },
+  {
+    "text": "The tester should know the differences between iteration and release planning, and how a tester adds value in each of these activities.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 688,
+      "width": 437,
+      "height": 23
+    },
+    "bbox": [
+      107,
+      688,
+      544,
+      711
+    ],
+    "page_number": 10,
+    "index": 61
+  },
+  {
+    "text": "Version 2014Page 10 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 10,
+    "lines": 1,
+    "index": 62
+  },
+  {
+    "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 109,
+      "width": 336,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      109,
+      407,
+      120
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 63
+  },
+  {
+    "text": "\uf0b7The tester should be able to describe the differences between testing activities in Agile projects",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 121,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      121,
+      94,
+      133
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 64
+  },
+  {
+    "text": "and non-Agile projects.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 133,
+      "width": 105,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      133,
+      212,
+      144
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 65
+  },
+  {
+    "text": "\uf0b7The tester should be able to describe how development and testing activities are integrated in",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 144,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      144,
+      94,
+      156
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 66
+  },
+  {
+    "text": "Agile projects.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 157,
+      "width": 66,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      157,
+      173,
+      168
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 67
+  },
+  {
+    "text": "\uf0b7The tester should be able to describe the role of independent testing in Agile projects. \uf0b7The tester should be able to describe the tools and techniques used to communicate the status of",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 168,
+      "width": 5,
+      "height": 24
+    },
+    "bbox": [
+      89,
+      168,
+      94,
+      192
+    ],
+    "page_number": 11,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 68
+  },
+  {
+    "text": "testing in an Agile project, including test progress and product quality.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 193,
+      "width": 311,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      193,
+      418,
+      204
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 69
+  },
+  {
+    "text": "\uf0b7The tester should be able to describe the process of evolving tests across multiple iterations and",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 204,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      204,
+      94,
+      216
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 70
+  },
+  {
+    "text": "explain why test automation is important to manage regression risk in Agile projects.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 216,
+      "width": 375,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      216,
+      482,
+      227
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 71
+  },
+  {
+    "text": "\uf0b7The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 228,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      228,
+      94,
+      240
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 72
+  },
+  {
+    "text": "\uf0b7The tester should be able to understand the role of a tester within an Agile team.",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 240,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      240,
+      94,
+      252
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 73
+  },
+  {
+    "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 264,
+      "width": 258,
+      "height": 11
+    },
+    "bbox": [
+      71,
+      264,
+      329,
+      275
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 74
+  },
+  {
+    "text": "\uf0b7The tester should be able to recall the concepts of test-driven development, acceptance test-",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 275,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      275,
+      94,
+      287
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 75
+  },
+  {
+    "text": "driven development, and behavior-driven development.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 287,
+      "width": 247,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      287,
+      354,
+      298
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 76
+  },
+  {
+    "text": "\uf0b7The tester should be able to recall the concepts of the test pyramid. \uf0b7The tester should be able to summarize the testing quadrants and their relationships with testing",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 299,
+      "width": 5,
+      "height": 24
+    },
+    "bbox": [
+      89,
+      299,
+      94,
+      323
+    ],
+    "page_number": 11,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 77
+  },
+  {
+    "text": "levels and testing types.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 323,
+      "width": 110,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      323,
+      217,
+      334
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 78
+  },
+  {
+    "text": "\uf0b7For a given Agile project, the tester should be able to work as a tester in a Scrum team. \uf0b7",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 334,
+      "width": 5,
+      "height": 25
+    },
+    "bbox": [
+      89,
+      334,
+      94,
+      359
+    ],
+    "page_number": 11,
+    "index": 79
+  },
+  {
+    "text": "The tester should be able to assess quality risks within an Agile project.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 348,
+      "width": 318,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      348,
+      425,
+      359
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 80
+  },
+  {
+    "text": "\uf0b7The tester should be able to estimate testing effort based on iteration content and quality risks. \uf0b7The tester should be able to interpret relevant information to support testing activities. \uf0b7The tester should be able to explain to business stakeholders how to define testable acceptance",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 359,
+      "width": 5,
+      "height": 36
+    },
+    "bbox": [
+      89,
+      359,
+      94,
+      395
+    ],
+    "page_number": 11,
+    "lines": 3,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 3,
+      "original_styles_count": 3
+    },
+    "consolidation_info": {
+      "original_lines_count": 3,
+      "original_spans_count": 3,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 81
+  },
+  {
+    "text": "criteria.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 396,
+      "width": 36,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      396,
+      143,
+      407
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 82
+  },
+  {
+    "text": "Given a user story, the tester should be able to write acceptance test-driven development test cases.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 408,
+      "width": 437,
+      "height": 22
+    },
+    "bbox": [
+      107,
+      408,
+      544,
+      430
+    ],
+    "page_number": 11,
+    "index": 83
+  },
+  {
+    "text": "\uf0b7For both functional and non-functional behavior, the tester should be able to write test cases using",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 431,
+      "width": 5,
+      "height": 12
+    },
+    "bbox": [
+      89,
+      431,
+      94,
+      443
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 84
+  },
+  {
+    "text": "black box test design techniques based on given user stories.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 443,
+      "width": 276,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      443,
+      383,
+      454
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 85
+  },
+  {
+    "text": "\uf0b7The tester should be able to perform exploratory testing to support the testing of an Agile project. \uf0b7The tester should be able to recall different tools available to testers according to their purpose",
+    "styles_used": [
+      {
+        "font": "Symbol",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 89,
+      "y": 454,
+      "width": 5,
+      "height": 24
+    },
+    "bbox": [
+      89,
+      454,
+      94,
+      478
+    ],
+    "page_number": 11,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 86
+  },
+  {
+    "text": "and to activities in Agile projects.",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 107,
+      "y": 479,
+      "width": 148,
+      "height": 11
+    },
+    "bbox": [
+      107,
+      479,
+      255,
+      490
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 87
+  },
+  {
+    "text": "Version 2014Page 11 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 11,
+    "lines": 1,
+    "index": 88
+  },
+  {
+    "text": "4.References",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 16,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 123,
+      "width": 18,
+      "height": 18
+    },
+    "bbox": [
+      71,
+      123,
+      89,
+      141
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 89
+  },
+  {
+    "text": "4.1 Trademarks",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 172,
+      "width": 106,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      172,
+      177,
+      188
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 90
+  },
+  {
+    "text": "The following registered trademarks and service marks are used in this document: ISTQB\u00aeis a registered trademark of the International Software Testing Qualifications Board",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 195,
+      "width": 366,
+      "height": 38
+    },
+    "bbox": [
+      71,
+      195,
+      437,
+      233
+    ],
+    "page_number": 12,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 91
+  },
+  {
+    "text": "4.2 Documents and Web Sites",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 15,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 71,
+      "y": 258,
+      "width": 197,
+      "height": 16
+    },
+    "bbox": [
+      71,
+      258,
+      268,
+      274
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 92
+  },
+  {
+    "text": "IdentifierReference",
+    "styles_used": [
+      {
+        "font": "Arial,Bold",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 281,
+      "width": 45,
+      "height": 11
+    },
+    "bbox": [
+      77,
+      281,
+      122,
+      292
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 93
+  },
+  {
+    "text": "[ISTQB-Web]Web site of the International Software Testing Qualifications Board. Refer to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org)",
+    "styles_used": [
+      {
+        "font": "Arial",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 296,
+      "width": 442,
+      "height": 23
+    },
+    "bbox": [
+      77,
+      296,
+      519,
+      319
+    ],
+    "page_number": 12,
+    "lines": 2,
+    "style_optimization": {
+      "optimized": true,
+      "single_style": true,
+      "style_occurrences": 2,
+      "original_styles_count": 2
+    },
+    "consolidation_info": {
+      "original_lines_count": 2,
+      "original_spans_count": 2,
+      "consolidated": true,
+      "styles_optimized": true
+    },
+    "index": 94
+  },
+  {
+    "text": "Version 2014Page 12 of 12May 31, 2014",
+    "styles_used": [
+      {
+        "font": "Trebuchet MS",
+        "size": 10,
+        "color": 0,
+        "font_flags": {
+          "bold": false,
+          "italic": false,
+          "serif": false
+        }
+      }
+    ],
+    "position": {
+      "x": 77,
+      "y": 719,
+      "width": 60,
+      "height": 12
+    },
+    "bbox": [
+      77,
+      719,
+      137,
+      731
+    ],
+    "page_number": 12,
+    "lines": 1,
+    "index": 95
+  }
+]

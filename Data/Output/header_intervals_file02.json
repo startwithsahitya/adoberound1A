@@ -1,0 +1,311 @@
+[
+  {
+    "level": "H1",
+    "index": 7,
+    "text": "Revision History",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 11,
+    "text": "Table of Contents",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 19,
+    "text": "Acknowledgements",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 22,
+    "text": "1.Introduction to the Foundation Level Extensions",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 26,
+    "text": "2.Introduction to Foundation Level Agile Tester Extension",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 28,
+        "text": "2.1 Intended Audience",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 30,
+        "text": "2.2 Career Paths for Testers",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 32,
+        "text": "2.3 Learning Objectives",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 36,
+        "text": "2.4 Entry Requirements",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 38,
+        "text": "2.5 Structure and Course Duration",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 43,
+        "text": "2.6 Keeping It Current",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "H1",
+    "index": 46,
+    "text": "3.Overview of the Foundation Level Extension –Agile Tester",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 47,
+    "text": "Syllabus",
+    "style": {
+      "font": "Arial,Bold",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 48,
+        "text": "3.1 Business Outcomes",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 51,
+        "text": "3.2 Content",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "H1",
+    "index": 89,
+    "text": "4.References",
+    "style": {
+      "font": "Arial",
+      "size": 16,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": false
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 90,
+        "text": "4.1 Trademarks",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 92,
+        "text": "4.2 Documents and Web Sites",
+        "style": {
+          "font": "Arial",
+          "size": 15,
+          "color": 0,
+          "font_flags": {
+            "bold": false,
+            "italic": false,
+            "serif": false
+          }
+        },
+        "reason": "H2: rarest font 'Arial' > local body size",
+        "children": []
+      }
+    ]
+  }
+]

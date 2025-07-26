@@ -1,0 +1,107 @@
+[
+  {
+    "index": 6,
+    "text": "I.Abstract",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 8,
+    "text": "II.Introductionbetes\u2014is grounded in well-established nutritional science",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 11,
+    "text": "III.Frameworks",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 22,
+    "text": "IV.Methods",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 34,
+    "text": "V.Result",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 106,
+    "text": "VI.DiscussionIn general, empirical data strongly demonstrates that",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  },
+  {
+    "index": 108,
+    "text": "VII.Conclusion",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "rarest font and max size"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "level": "H1",
+    "index": 6,
+    "text": "I.Abstract",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 8,
+    "text": "II.Introductionbetes—is grounded in well-established nutritional science",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 11,
+    "text": "III.Frameworks",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 13,
+        "text": "A.BackgroundPython models/Libraries, as the Machine Learning model",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 15,
+        "text": "B.Scikit-Learn(sklearn) [12]",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 18,
+        "text": "C.Numpy [13]",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 20,
+        "text": "D.Pandas [14]",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "H1",
+    "index": 22,
+    "text": "IV.Methods",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 26,
+        "text": "A.Algorithms",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "H1",
+    "index": 34,
+    "text": "V.Result",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": [
+      {
+        "level": "H2",
+        "index": 49,
+        "text": "B.SVM Linear KernelThe extremely high misclassification of class ’c’ as ’b’",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 58,
+        "text": "C.SVM Polynomial Kernelthe precision and recall metrics for individual classes. For",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 66,
+        "text": "D.SVM RBF Kernel",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      },
+      {
+        "level": "H2",
+        "index": 90,
+        "text": "F.Decision Tree Classifier",
+        "style": {
+          "font": "CMTI12",
+          "size": 12,
+          "color": 0,
+          "font_flags": {
+            "bold": true,
+            "italic": false,
+            "serif": true
+          }
+        },
+        "reason": "H2: rarest font 'CMTI12' > local body size",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "H1",
+    "index": 106,
+    "text": "VI.DiscussionIn general, empirical data strongly demonstrates that",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  },
+  {
+    "level": "H1",
+    "index": 108,
+    "text": "VII.Conclusion",
+    "style": {
+      "font": "CMCSC10",
+      "size": 12,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "H1: from refined H1 reference",
+    "children": []
+  }
+]
