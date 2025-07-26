@@ -12,7 +12,6 @@ from modules.line_consolidator import process_line_consolidation
 from modules.indexer import add_indexing
 from modules.h1_refiner import refine_h1_headers_regionally
 from modules.hierarchy import process_header_hierarchy
-from modules.hierarchy_cleaner import refine_hierarchy_structure
 from modules.hierarchy_merger import merge_adjacent_headers, remove_index_attributes
 
 
@@ -123,13 +122,48 @@ def process_single_pdf(pdf_filename, input_dir, output_dir):
 
     process_header_hierarchy(output_path, output_dir)
 
-    hierarchy_path = os.path.join(output_dir, f"hierarchy_{pdf_name}.json")
-    refine_hierarchy_structure(hierarchy_path)
-
     generate_final_output(output_dir, "Data/Output", pdf_filename)
 
     print(f"   💾 Final output saved.")
     return True
+
+
+# ✅ New Function: Remove redundant same-level headers if consecutive index pairs
+def remove_consecutive_same_level_headers(output_dir):
+    files = [f for f in os.listdir(output_dir) if f.endswith(".json")]
+
+    for file in files:
+        file_path = os.path.join(output_dir, file)
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        outline = data.get("outline", [])
+        if not outline:
+            continue
+
+        cleaned_outline = []
+        i = 0
+        while i < len(outline):
+            current = outline[i]
+            cleaned_outline.append(current)
+            j = i + 1
+
+            while j < len(outline) and outline[j]["level"] == current["level"]:
+                if outline[j]["index"] == outline[j - 1]["index"] + 1:
+                    # skip consecutive same-level headers (keep only first)
+                    j += 1
+                else:
+                    cleaned_outline.append(outline[j])
+                    j += 1
+            i = j
+
+        data["outline"] = cleaned_outline
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+
+        print(f"   ➖ Removed consecutive same-level headers from: {file}")
 
 
 def run_pipeline():
@@ -164,11 +198,17 @@ def run_pipeline():
 
     print(f"\n🔧 Post-processing final output for H1-H2 merging")
     merge_adjacent_headers(final_dir)
+
+    # ✅ Remove consecutive same-level headers if index difference is just +1
+    remove_consecutive_same_level_headers(final_dir)
+
     remove_index_attributes(final_dir)
 
     print(f"\n🧹 Cleaning up Temp folder")
     for f in os.listdir(output_dir):
-        os.remove(os.path.join(output_dir, f))
+        file_path = os.path.join(output_dir, f)
+        if os.path.isfile(file_path):
+            os.remove(file_path)
     print("   ✅ Temp folder cleaned: Data/Temp")
 
     print(f"\n📊 Processing Summary:")

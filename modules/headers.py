@@ -121,10 +121,7 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
             if not entry or idx in seen:
                 continue
             fonts_seq = get_font_sequence(entry)
-            if (
-                len(fonts_seq) == 1 or
-                (idx in merged_seq_entries and fonts_seq == title_fonts_seq and len(fonts_seq) == len(set(fonts_seq)))
-            ):
+
             if (
                 len(fonts_seq) == 1 or
                 (idx in merged_seq_entries and fonts_seq == title_fonts_seq and len(fonts_seq) == len(set(fonts_seq)))

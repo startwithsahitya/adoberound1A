@@ -2,6 +2,7 @@ import os
 import json
 import copy
 
+
 def merge_adjacent_headers(output_dir):
     files = [f for f in os.listdir(output_dir) if f.endswith(".json")]
 
@@ -80,3 +81,42 @@ def remove_index_attributes(output_dir):
             json.dump(data, f, indent=2)
 
         print(f"   🧹 Removed 'index' from: {file}")
+
+
+# ✅ New Function to filter out same-level headers with only +1 index difference
+def remove_consecutive_same_level_headers(output_dir):
+    files = [f for f in os.listdir(output_dir) if f.endswith(".json")]
+
+    for file in files:
+        file_path = os.path.join(output_dir, file)
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        outline = data.get("outline", [])
+        if not outline:
+            continue
+
+        result = []
+        i = 0
+        while i < len(outline):
+            current = outline[i]
+            result.append(current)
+
+            j = i + 1
+            while j < len(outline) and outline[j]["level"] == current["level"]:
+                if outline[j]["index"] == outline[j - 1]["index"] + 1:
+                    # If pair is exactly consecutive (e.g., 6-7), keep only the earlier one
+                    # and skip the current j
+                    j += 1
+                else:
+                    result.append(outline[j])
+                    j += 1
+            i = j
+
+        data["outline"] = result
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+
+        print(f"   ➖ Removed redundant consecutive same-level headers in: {file}")
