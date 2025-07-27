@@ -98,7 +98,7 @@ def process_yaxis_merge(input_path, output_path=None):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(merged, f, indent=2)
 
-    print(f"✅ Re-merged by font: {before - after} spans folded into runs, {after} runs total.")
+    
     return merged
 
 def debug_merge_preview(entries, max_display=5):

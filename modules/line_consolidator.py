@@ -70,4 +70,4 @@ def process_line_consolidation(json_path):
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(merged_spans, f, indent=2)
 
-    print(f"   ✅ Line consolidation complete: {len(spans)} ➝ {len(merged_spans)} spans")
+    

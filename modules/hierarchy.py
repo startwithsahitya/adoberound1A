@@ -15,7 +15,7 @@ def process_header_hierarchy(json_path, output_dir):
         h1_headers = json.load(f)
 
     if not h1_headers:
-        print(f"⚠️ No H1 headers found in {h1_path}, skipping hierarchy.")
+        
         return
 
     h1_entries = []
@@ -40,7 +40,7 @@ def process_header_hierarchy(json_path, output_dir):
 
     with open(hierarchy_path, "w", encoding="utf-8") as f:
         json.dump(h1_entries, f, indent=2, ensure_ascii=False)
-    print(f"✅ Hierarchy written to: {hierarchy_path}")
+    
 
 
 def _build_hierarchy(spans, parent_level):
@@ -198,7 +198,7 @@ def _truncate_repeats(headers):
                 continue
             break
         if lvl > 2 and len(group) >= 3:
-            print(f"🗑️ Truncated {len(group)} L{lvl} headers: {[h['text'] for h in group]}")
+            
             i = j
             continue
         headers[i]["children"] = _truncate_repeats(headers[i]["children"])

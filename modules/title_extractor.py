@@ -35,7 +35,7 @@ def merge_simultaneous_entries(entries):
     min_y = min(pos.get("y", 0) for pos in all_positions)
     max_y = max(pos.get("y", 0) + pos.get("height", 0) for pos in all_positions)
 
-    base_entry = entries[-1].copy()  # Take metadata from the last entry
+    base_entry = entries[-1].copy()
     base_entry.update({
         "text": combined_text,
         "styles_used": all_styles,
@@ -133,7 +133,7 @@ def extract_title_precise(data):
             merged_candidate = {
                 "entry": merged,
                 "size": max(g["size"] for g in group),
-                "idx": max(indices),  # CHANGED FROM min(indices) TO max(indices)
+                "idx": max(indices),
                 "indices": indices
             }
             if valid_title_position(indices, data_len):
@@ -208,15 +208,8 @@ def process_title_extraction(json_path, output_dir=None):
                 title_entry["is_title"] = True
                 data.insert(0, title_entry)
 
-        # Save updated data back into same file
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
 
-        if result.get("title"):
-            print(f"   ✅ Title tagged: \"{result['title']}\"")
-        else:
-            print(f"   ❌ No title found: {result.get('reason')}")
-
-    except Exception as e:
-        print(f"   ❌ Error in title extraction: {str(e)}")
+    except Exception:
         raise

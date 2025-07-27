@@ -2,7 +2,6 @@ from collections import defaultdict
 import copy
 import json
 
-
 def same_style_attributes(style1, style2):
     keys = ["font", "size", "color", "font_flags"]
     for key in keys:
@@ -17,7 +16,6 @@ def same_style_attributes(style1, style2):
             if val1 != val2:
                 return False
     return True
-
 
 def deduplicate_styles(styles_list):
     if not styles_list:
@@ -49,7 +47,6 @@ def deduplicate_styles(styles_list):
         "total_styles": len(styles_list)
     }
 
-
 def lines_are_adjacent(line1, line2, max_gap=15.0):
     if not line1 or not line2:
         return False
@@ -59,7 +56,6 @@ def lines_are_adjacent(line1, line2, max_gap=15.0):
 
     gap = y2_min - y1_max
     return 0 <= gap <= max_gap
-
 
 def has_single_attribute(line):
     if not line:
@@ -72,25 +68,15 @@ def has_single_attribute(line):
                 return False
     return True
 
-
 def has_multiple_attributes(line):
     return not has_single_attribute(line)
-
 
 def get_line_primary_style(line):
     if not line:
         return None
     return line[0]["styles_used"][0]
 
-
 def should_merge_lines(line1, line2):
-    """
-    Custom logic to decide when two lines should be merged:
-    - Merge if both lines are single-style and have same style
-    - Merge if both are multi-style (regardless of match)
-    - Don't merge if one line is multi-style and the other is single-style
-    - Don't merge if both are single-style but styles differ
-    """
     if not lines_are_adjacent(line1, line2):
         return False
 
@@ -105,7 +91,6 @@ def should_merge_lines(line1, line2):
         return True
     else:
         return False
-
 
 def consolidate_merged_lines(merged_lines_group):
     if not merged_lines_group:
@@ -187,7 +172,6 @@ def consolidate_merged_lines(merged_lines_group):
 
     return base_span
 
-
 def group_spans_into_lines(data, y_tolerance=3.0):
     pages = defaultdict(list)
     for span in data:
@@ -223,7 +207,6 @@ def group_spans_into_lines(data, y_tolerance=3.0):
         all_lines.extend(lines)
 
     return all_lines
-
 
 def merge_lines_with_consolidation(lines):
     if not lines:
@@ -263,58 +246,17 @@ def merge_lines_with_consolidation(lines):
 
     return consolidated_entries
 
-
 def process_line_merging(output_path):
     with open(output_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     if not data:
-        print("   ⚠️  No data found to process")
         return
 
-    original_count = len(data)
-    original_styles_count = sum(len(span.get("styles_used", [])) for span in data)
-
     lines = group_spans_into_lines(data)
-    print(f"   📄 Grouped {original_count} spans into {len(lines)} lines")
-
-    single_attr_lines = sum(1 for line in lines if has_single_attribute(line))
-    multi_attr_lines = len(lines) - single_attr_lines
-    print(f"   🔍 Line analysis: {single_attr_lines} single-attribute, {multi_attr_lines} multi-attribute lines")
-
     consolidated_data = merge_lines_with_consolidation(lines)
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(consolidated_data, f, indent=2)
-
-    final_count = len(consolidated_data)
-    final_styles_count = sum(len(entry.get("styles_used", [])) for entry in consolidated_data)
-    styles_reduction = original_styles_count - final_styles_count
-
-    print(f"   ✅ Line consolidation complete: {final_count} consolidated entries")
-    print(f"   🎯 Style optimization: Reduced {original_styles_count} → {final_styles_count} styles (saved {styles_reduction})")
-
-    lines_stats = defaultdict(int)
-    consolidated_entries = 0
-    optimized_entries = 0
-
-    for entry in consolidated_data:
-        line_count = entry.get("lines", 1)
-        lines_stats[line_count] += 1
-        if line_count > 1:
-            consolidated_entries += 1
-        if entry.get("style_optimization", {}).get("optimized", False):
-            optimized_entries += 1
-
-    print(f"   📊 Consolidation statistics:")
-    print(f"      Single lines: {lines_stats[1]} entries")
-    if consolidated_entries > 0:
-        print(f"      Consolidated entries: {consolidated_entries}")
-        for line_count, entry_count in sorted(lines_stats.items()):
-            if line_count > 1:
-                print(f"        {line_count} lines merged: {entry_count} entries")
-
-    if optimized_entries > 0:
-        print(f"   ✨ Style-optimized entries: {optimized_entries}")
 
     return consolidated_data

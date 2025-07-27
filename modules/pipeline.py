@@ -12,7 +12,12 @@ from modules.line_consolidator import process_line_consolidation
 from modules.indexer import add_indexing
 from modules.h1_refiner import refine_h1_headers_regionally
 from modules.hierarchy import process_header_hierarchy
-from modules.hierarchy_merger import merge_adjacent_headers, remove_index_attributes
+from modules.hierarchy_merger import (
+    merge_adjacent_headers,
+    remove_index_attributes,
+    remove_consecutive_same_level_headers,
+    remove_illegal_header_jumps,
+)
 
 
 def clean_and_merge(data):
@@ -65,7 +70,6 @@ def generate_final_output(temp_dir, final_dir, filename):
     os.makedirs(final_dir, exist_ok=True)
     with open(final_output_path, "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=2)
-    print(f"   📘 Final structured output saved to {final_output_path}")
 
 
 def process_single_pdf(pdf_filename, input_dir, output_dir):
@@ -73,97 +77,37 @@ def process_single_pdf(pdf_filename, input_dir, output_dir):
     input_path = os.path.join(input_dir, pdf_filename)
     output_path = os.path.join(output_dir, f"{pdf_name}.json")
 
-    print(f"\n🔍 Processing: {pdf_filename}")
-
-    print(f"   📤 Extracting content from {pdf_filename}")
     extracted = extract_pdf_content(input_path)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(extracted, f, indent=2)
-    print(f"   ✅ Extraction complete: {len(extracted)} spans found")
 
-    print(f"   🔧 Cleaning and merging duplicates for {pdf_filename}")
     with open(output_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    original_count = len(data)
     cleaned_data = clean_and_merge(data)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(cleaned_data, f, indent=2)
-    final_count = len(cleaned_data)
-    print(f"   ✅ Cleaning complete: Merged {original_count - final_count} duplicates/fragments")
 
-    print(f"   📏 Merging spans on same Y-axis with same font size for {pdf_filename}")
     process_yaxis_merge(output_path)
-
-    print(f"   📝 Merging lines based on attribute rules for {pdf_filename}")
     process_line_merging(output_path)
-
-    print(f"   🔗 Consolidating similar lines for {pdf_filename}")
     process_line_consolidation(output_path)
 
-    print(f"   🧹 Filtering garbage text from {pdf_filename}")
     with open(output_path, "r", encoding="utf-8") as f:
         extracted_data = json.load(f)
     filtered_data = [span for span in extracted_data if not is_garbage(span["text"])]
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(filtered_data, f, indent=2)
-    print(f"   ✅ Filtering complete: Removed {len(extracted_data) - len(filtered_data)} garbage spans")
 
-    print(f"   🔢 Adding indexing to cleaned data for {pdf_filename}")
     add_indexing(output_path)
-
-    print(f"   👑 Extracting title for {pdf_filename}")
     process_title_extraction(output_path, output_dir)
-
-    print(f"   🏷️  Extracting H1 headers for {pdf_filename}")
     process_header_extraction(output_path, output_dir)
 
     h1_json_path = os.path.join(output_dir, f"h1_{pdf_name}.json")
     refine_h1_headers_regionally(output_path, h1_json_path)
 
     process_header_hierarchy(output_path, output_dir)
-
     generate_final_output(output_dir, "Data/Output", pdf_filename)
 
-    print(f"   💾 Final output saved.")
     return True
-
-
-# ✅ New Function: Remove redundant same-level headers if consecutive index pairs
-def remove_consecutive_same_level_headers(output_dir):
-    files = [f for f in os.listdir(output_dir) if f.endswith(".json")]
-
-    for file in files:
-        file_path = os.path.join(output_dir, file)
-
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        outline = data.get("outline", [])
-        if not outline:
-            continue
-
-        cleaned_outline = []
-        i = 0
-        while i < len(outline):
-            current = outline[i]
-            cleaned_outline.append(current)
-            j = i + 1
-
-            while j < len(outline) and outline[j]["level"] == current["level"]:
-                if outline[j]["index"] == outline[j - 1]["index"] + 1:
-                    # skip consecutive same-level headers (keep only first)
-                    j += 1
-                else:
-                    cleaned_outline.append(outline[j])
-                    j += 1
-            i = j
-
-        data["outline"] = cleaned_outline
-
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-
-        print(f"   ➖ Removed consecutive same-level headers from: {file}")
 
 
 def run_pipeline():
@@ -175,12 +119,8 @@ def run_pipeline():
     os.makedirs(final_dir, exist_ok=True)
 
     pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith(".pdf")]
-
     if not pdf_files:
-        print("❌ No PDF files found in Data/Input directory")
         return
-
-    print(f"📁 Found {len(pdf_files)} PDF file(s): {', '.join(pdf_files)}")
 
     successful_count = 0
     failed_count = 0
@@ -192,30 +132,18 @@ def run_pipeline():
                 successful_count += 1
             else:
                 failed_count += 1
-        except Exception as e:
-            print(f"   ❌ Error processing {pdf_filename}: {str(e)}")
+        except Exception:
             failed_count += 1
 
-    print(f"\n🔧 Post-processing final output for H1-H2 merging")
+    remove_illegal_header_jumps(final_dir)
     merge_adjacent_headers(final_dir)
-
-    # ✅ Remove consecutive same-level headers if index difference is just +1
     remove_consecutive_same_level_headers(final_dir)
-
     remove_index_attributes(final_dir)
 
-    print(f"\n🧹 Cleaning up Temp folder")
     for f in os.listdir(output_dir):
         file_path = os.path.join(output_dir, f)
         if os.path.isfile(file_path):
             os.remove(file_path)
-    print("   ✅ Temp folder cleaned: Data/Temp")
-
-    print(f"\n📊 Processing Summary:")
-    print(f"   ✅ Successfully processed: {successful_count} files")
-    print(f"   ❌ Failed to process: {failed_count} files")
-    print(f"   📁 Temp directory: {output_dir}")
-    print(f"   📁 Final output directory: {final_dir}")
 
 
 if __name__ == "__main__":

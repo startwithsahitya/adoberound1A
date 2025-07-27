@@ -31,13 +31,13 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
 
     # Initial validity check
     if not h1_headers or not isinstance(h1_headers, list):
-        print(f"⚠️ Skipping refinement: {os.path.basename(h1_json_path)} is empty or invalid.")
+       
         return []
 
     # Filter out skipped headers
     filtered_input = [h for h in h1_headers if not h.get("h1_skip", False)]
     if len(filtered_input) == 0:
-        print(f"⚠️ Skipping refinement: all headers in {os.path.basename(h1_json_path)} are marked as skipped.")
+       
         return []
 
     h1_sorted = sorted(filtered_input, key=lambda x: x['index'])
@@ -86,10 +86,7 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
                     break
 
             if found_bigger:
-                print(
-                    f"🚩 [Region {region_start}-{region_end}]: Replacing header at index {header_idx} "
-                    f"with bigger font header at index {found_bigger['index']} (font size {get_size_from_style(found_bigger['style'])})"
-                )
+               
                 output_headers.append(found_bigger)
                 replaced = True
             else:
@@ -104,7 +101,7 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
 
         config = tuple((h['index'], get_size_from_style(h['style'])) for h in deduped)
         if config in seen_configs:
-            print("❗ Header configuration repeated once—stopping refinement loop!")
+           
             break
         seen_configs.add(config)
 
@@ -112,7 +109,7 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
             break
         iteration_count += 1
         if iteration_count > max_iterations:
-            print("❗ Max header-refinement iterations reached—breaking loop!")
+          
             break
         new_headers = sorted(deduped, key=lambda x: x['index'])
 
@@ -122,7 +119,7 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
     for h in sorted(new_headers, key=lambda x: x['index']):
         curr_size = get_size_from_style(h.get('style'))
         if last_size is not None and curr_size < last_size:
-            print(f"⚠️ Removed header at index {h['index']} (size {curr_size}) because it is smaller than the previous header (size {last_size})")
+           
             continue
         filtered_headers.append(h)
         last_size = curr_size
@@ -166,27 +163,14 @@ def refine_h1_headers_regionally(main_json_path, h1_json_path, output_path=None,
         merged_headers.append(merged_header)
 
     if not merged_headers:
-        print(f"⚠️ No headers remained after refinement of {os.path.basename(h1_json_path)}.")
+        
         return []
 
     if save:
         output_path = output_path or h1_json_path  # 👈 Overwrite original file
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(merged_headers, f, indent=2)
-        print(f"✅ Refined H1 headers saved to {output_path}")
+        
 
     return merged_headers
 
-
-# CLI usage
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser(
-        description="Regionally refine H1 headers using font size scanning between header candidates."
-    )
-    parser.add_argument('main_json', help="Main <filename>.json file path")
-    parser.add_argument('h1_json', help="h1_<filename>.json file path")
-    parser.add_argument('--out', help="Output path (default: overwrite original file)")
-    args = parser.parse_args()
-
-    refine_h1_headers_regionally(args.main_json, args.h1_json, output_path=args.out)

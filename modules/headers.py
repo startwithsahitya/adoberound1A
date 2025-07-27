@@ -24,7 +24,7 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
     else:
         candidate_entries = data
     if not candidate_entries:
-        print('⚠️ No header candidates after title!')
+        
         return []
     # 2. --- Compute most frequent body size (typical body text size) ---
     all_sizes = [
@@ -33,7 +33,7 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
         for style in entry.get("styles_used", [])
     ]
     if not all_sizes:
-        print("⚠️ No font sizes in candidates.")
+      
         return []
     body_size = Counter(all_sizes).most_common(1)[0][0]
     # 3. --- Filter: Only entries with any style > body_size ---
@@ -43,7 +43,7 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
         if any(style.get("size", 0) > body_size for style in entry.get("styles_used", []))
     ]
     if not filtered_candidates:
-        print("No header-size entries found.")
+        
         header_json = []
     else:
         # 4. --- Find rarest font(s) among header-size candidates ---
@@ -141,14 +141,14 @@ def legacy_process_header_extraction(data, input_json_path, output_dir):
     output_path = os.path.join(output_dir, f"h1_{base_pdf}.json")
     with open(output_path, "w", encoding="utf-8") as f_out:
         json.dump(header_json, f_out, indent=2)
-    print(f"🏷️ H1 header(s) saved to: h1_{base_pdf}.json")
+   
     return header_json
 
 def process_header_extraction(input_json_path, output_dir):
     with open(input_json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     if not data or not isinstance(data, list):
-        print("⚠️ No data found.")
+        
         return []
 
     # --- PRIMARY LOGIC: Most used size is the biggest, select rarest font in single-size/single-font entries ---
@@ -158,14 +158,14 @@ def process_header_extraction(input_json_path, output_dir):
             size_counts[style.get("size", 0)] += 1
 
     if not size_counts:
-        print("⚠️ No font sizes found.")
+        
         return []
 
     most_used_size, _ = size_counts.most_common(1)[0]
     global_max_size = max(size_counts.keys())
 
     if most_used_size == global_max_size:
-        print(f"🎯 Using 'most used size is the biggest' header logic: size={global_max_size}")
+       
 
         # Filter to only entries that are single-size (all styles same size)
         size_entries = []
@@ -182,13 +182,13 @@ def process_header_extraction(input_json_path, output_dir):
                 font_counts[next(iter(fonts))] += 1
 
         if not font_counts:
-            print("⚠️ No fonts found among single-size entries. Fallback to legacy.")
+           
             return legacy_process_header_extraction(data, input_json_path, output_dir)
 
         # Pick rarest font (e.g., Bold if rarer than Regular at header size)
         rarest_font, _ = min(font_counts.items(), key=lambda x: x[1])
 
-        print(f"🔎 Picking rarest font for header lines: '{rarest_font}'")
+        
 
         headers = []
         for entry in size_entries:
@@ -214,12 +214,12 @@ def process_header_extraction(input_json_path, output_dir):
         output_path = os.path.join(output_dir, f"h1_{base_pdf}.json")
         with open(output_path, "w", encoding="utf-8") as f_out:
             json.dump(header_json, f_out, indent=2)
-        print(f"🏷️ H1 header(s) saved to: h1_{base_pdf}.json")
+        
         return header_json
 
     else:
         # ---- fallback to old logic here ----
-        print("🔄 Most common size is NOT used at the document's largest size: using heuristic header logic.")
+       
         return legacy_process_header_extraction(data, input_json_path, output_dir)
 
 # CLI usage
