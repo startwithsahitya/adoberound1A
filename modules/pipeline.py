@@ -105,7 +105,7 @@ def process_single_pdf(pdf_filename, input_dir, output_dir):
     refine_h1_headers_regionally(output_path, h1_json_path)
 
     process_header_hierarchy(output_path, output_dir)
-    generate_final_output(output_dir, "Data/Output", pdf_filename)
+    generate_final_output(output_dir, "output", pdf_filename)
 
     return True
 
@@ -131,9 +131,9 @@ def decrement_page_numbers(output_dir):
 
 
 def run_pipeline():
-    input_dir = "Data/Input"
-    output_dir = "Data/Temp"
-    final_dir = "Data/Output"
+    input_dir = "input"
+    output_dir = "Temp"
+    final_dir = "output"
 
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(final_dir, exist_ok=True)
@@ -161,10 +161,7 @@ def run_pipeline():
     remove_index_attributes(final_dir)
     decrement_page_numbers(final_dir)  # ✅ New step
 
-    for f in os.listdir(output_dir):
-        file_path = os.path.join(output_dir, f)
-        if os.path.isfile(file_path):
-            os.remove(file_path)
+
 
 
 if __name__ == "__main__":
