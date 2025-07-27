@@ -110,6 +110,26 @@ def process_single_pdf(pdf_filename, input_dir, output_dir):
     return True
 
 
+def decrement_page_numbers(output_dir):
+    files = [f for f in os.listdir(output_dir) if f.endswith(".json")]
+
+    for file in files:
+        file_path = os.path.join(output_dir, file)
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        if "outline" not in data:
+            continue
+
+        for item in data["outline"]:
+            if "page" in item and isinstance(item["page"], int):
+                item["page"] = max(0, item["page"] - 1)
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+
+
 def run_pipeline():
     input_dir = "Data/Input"
     output_dir = "Data/Temp"
@@ -139,6 +159,7 @@ def run_pipeline():
     merge_adjacent_headers(final_dir)
     remove_consecutive_same_level_headers(final_dir)
     remove_index_attributes(final_dir)
+    decrement_page_numbers(final_dir)  # ✅ New step
 
     for f in os.listdir(output_dir):
         file_path = os.path.join(output_dir, f)
