@@ -1,0 +1,32 @@
+[
+  {
+    "index": 346,
+    "text": "5The online-LOCAL model",
+    "style": {
+      "font": "CMBX12",
+      "size": 15,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "Promoted: bigger font 15>12 in region (308-433)"
+  },
+  {
+    "index": 437,
+    "text": "Rooted regular trees",
+    "style": {
+      "font": "CMBX12",
+      "size": 17,
+      "color": 0,
+      "font_flags": {
+        "bold": false,
+        "italic": false,
+        "serif": true
+      }
+    },
+    "reason": "Promoted: bigger font 17>12 in region (435-inf)"
+  }
+]
