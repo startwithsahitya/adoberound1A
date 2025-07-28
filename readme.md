@@ -25,3 +25,9 @@ The solution uses a modular pipeline, where each module performs a specific tran
 3. Run the pipeline: `python main.py`
 4. Check results in the `output/` directory.
 5. Or You Can Use Docker Commands
+
+## Libraries Used
+
+- **PyPDF2**: For PDF file manipulation and extraction.
+- **PyMuPDF**: For working with PDF and other document formats.
+- **Python Standard Library (STL)**: Modules such as `os`, `sys`, `re`, `collections`, and others are used throughout the code for file handling, regular expressions, data structures, and general utilities.
