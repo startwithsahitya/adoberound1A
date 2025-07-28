@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 
 from modules.scraper import extract_pdf_content
 from modules.filter import is_garbage
@@ -18,6 +19,12 @@ from modules.hierarchy_merger import (
     remove_consecutive_same_level_headers,
     remove_illegal_header_jumps,
 )
+
+
+def delete_and_recreate_folder(folder_path):
+    if os.path.exists(folder_path):
+        shutil.rmtree(folder_path)
+    os.makedirs(folder_path, exist_ok=True)
 
 
 def clean_and_merge(data):
@@ -135,7 +142,7 @@ def run_pipeline():
     output_dir = "Temp"
     final_dir = "output"
 
-    os.makedirs(output_dir, exist_ok=True)
+    delete_and_recreate_folder(output_dir)  # 🔥 Clean start for Temp folder
     os.makedirs(final_dir, exist_ok=True)
 
     pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith(".pdf")]
@@ -159,9 +166,11 @@ def run_pipeline():
     merge_adjacent_headers(final_dir)
     remove_consecutive_same_level_headers(final_dir)
     remove_index_attributes(final_dir)
-    decrement_page_numbers(final_dir)  # ✅ New step
+    decrement_page_numbers(final_dir)
 
-
+    # 🧹 Clean up Temp folder after processing
+    if os.path.exists(output_dir):
+        shutil.rmtree(output_dir)
 
 
 if __name__ == "__main__":
